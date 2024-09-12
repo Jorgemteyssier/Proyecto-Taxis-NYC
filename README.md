@@ -1,5 +1,7 @@
 # Proyecto-Taxis-NYC
 
+![image](https://github.com/user-attachments/assets/b394016f-a19f-47bc-accb-482d66ce165a)
+
 # Introducción 
 
 En los últimos años, hemos sido testigos de un aumento significativo en la demanda de servicios de taxi, lo que ha tenido un impacto creciente en diversas dimensiones urbanas, especialmente en el medio ambiente. El sector del transporte se ha posicionado como el mayor emisor de CO2 en Estados Unidos, lo que subraya la urgencia de buscar soluciones sostenibles.
