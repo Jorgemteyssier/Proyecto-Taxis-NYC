@@ -11,7 +11,7 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 - [Introducción](#introducción)
 - [¿Quiénes somos?](#quiénes-somos)
 - [Objetivo General](#objetivo-general)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Stack tecnológico](#stack-tecnológico)
 
 
 ## ¿Quiénes somos?
