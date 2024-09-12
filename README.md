@@ -14,6 +14,9 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 
 ## ¿Quiénes somos?
 
+![image](https://github.com/user-attachments/assets/08a04463-2d68-4166-95af-d4b2e955d94e)
+
+
 
 ## Objetivo General
 
