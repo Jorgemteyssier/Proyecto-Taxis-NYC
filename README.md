@@ -12,7 +12,7 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 - [¿Quiénes somos?](#quiénes-somos)
 - [Objetivo General](#objetivo-general)
 - [Stack tecnológico](#stack-tecnológico)
-- [Cronograma de trabajo](#)
+- [Cronograma de trabajo](#cronograma-de-trabajo)
 
 
 ## ¿Quiénes somos?
