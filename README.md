@@ -32,7 +32,7 @@ La importancia de este proyecto radica en su potencial para reducir significativ
 
 **Herramientas para la elaboracion del ETL y EDA**
 
-+ Python: Utilizamos librerías específicas para como Numpy, Pandas, Matplotlib, entre otras.
++ **Python**: Utilizamos librerías específicas para como Numpy, Pandas, Matplotlib, entre otras.
 
 **Herramientas de Organización y Comunicación**
 
