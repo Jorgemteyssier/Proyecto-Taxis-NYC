@@ -36,11 +36,11 @@ La importancia de este proyecto radica en su potencial para reducir significativ
 
 **Herramientas de Organización y Comunicación**
 
-+ Google Meet: Para videoconferencias y reuniones virtuales.
++ **Google Meet**: Para videoconferencias y reuniones virtuales.
 
-+ Trello / Jira: Para la gestión de proyectos y seguimiento de tareas.
++ **Trello / Jira**: Para la gestión de proyectos y seguimiento de tareas.
 
-+ Platform (GCP) ofrece soluciones escalables y de alto rendimiento para manejar grandes volúmenes de datos y consultas complejas. Sus servicios se integran fluidamente, permitiendo la creación de pipelines de datos eficientes.
++ **Platform Google Cloud Platform(GCP)** ofrece soluciones escalables y de alto rendimiento para manejar grandes volúmenes de datos y consultas complejas. Sus servicios se integran fluidamente, permitiendo la creación de pipelines de datos eficientes.
 
 
   Servicios clave:
@@ -62,10 +62,10 @@ Este cronograma detalla un proyecto de tres semanas que abarca desde la comprens
 Nuestro grupo ha decidido adoptar la metodología **SCRUM** para mejorar la eficiencia y colaboración en la gestión de proyectos. 
 SCRUM es un marco de trabajo ágil diseñado para ayudar a los equipos a desarrollar productos de manera más eficiente y adaptativa. Permite la organización en ciclos cortos y controlados llamados **Sprints**, donde los equipos se enfocan en cumplir con objetivos específicos. SCRUM promueve la autoorganización, la entrega continua de valor y la adaptabilidad ante cambios.
 
-+ Sprints: Cada sprint durará 2 semanas. Al inicio de cada sprint, tendremos una reunión de planificación donde definiremos los objetivos.
-+ Daily Standup: Cada día, realizaremos una reunión corta de 15 minutos para compartir el progreso, discutir bloqueos y coordinar el trabajo diario.
-+ Revisión de Sprint: Al final de cada sprint, haremos una demo del trabajo completado y recogeremos feedback.
-+ Retrospectiva de Sprint: Revisaremos lo que ha ido bien y lo que puede mejorar, ajustando nuestra forma de trabajar para el siguiente sprint.
++ **Sprints**: Cada sprint durará 2 semanas. Al inicio de cada sprint, tendremos una reunión de planificación donde definiremos los objetivos.
++ **Daily Standup**: Cada día, realizaremos una reunión corta de 15 minutos para compartir el progreso, discutir bloqueos y coordinar el trabajo diario.
++ **Revisión de Sprint**: Al final de cada sprint, haremos una demo del trabajo completado y recogeremos feedback.
++ **Retrospectiva de Sprint**: Revisaremos lo que ha ido bien y lo que puede mejorar, ajustando nuestra forma de trabajar para el siguiente sprint.
 
 
 
