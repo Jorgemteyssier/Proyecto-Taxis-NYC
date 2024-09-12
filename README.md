@@ -12,13 +12,15 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 - [¿Quiénes somos?](#quiénes-somos)
 - [Objetivo General](#objetivo-general)
 - [Stack tecnológico](#stack-tecnológico)
+- [Cronograma de trabajo](#)
 
 
 ## ¿Quiénes somos?
 
 Optima Data es una innovadora startup en el campo del análisis de datos, dedicada a transformar información compleja en insights accionables. Fundada recientemente por un equipo de expertos apasionados, nos estamos posicionando rápidamente como un socio confiable y dinámico para empresas que buscan aprovechar el poder de sus datos para impulsar el crecimiento y la innovación. Nuestra juventud como empresa es nuestra fortaleza, permitiéndonos ser ágiles, innovadores y estar a la vanguardia de las últimas tendencias y tecnologías en el análisis de datos.
 
-![image](https://github.com/user-attachments/assets/08a04463-2d68-4166-95af-d4b2e955d94e)
+![image](https://github.com/user-attachments/assets/5ff73403-f8b7-4f17-8c6b-9b04f3d06fdb)
+
 
 ## Objetivo General
 
