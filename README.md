@@ -40,6 +40,18 @@ La importancia de este proyecto radica en su potencial para reducir significativ
 
 + Trello / Jira: Para la gestión de proyectos y seguimiento de tareas.
 
++ Platform (GCP) ofrece soluciones escalables y de alto rendimiento para manejar grandes volúmenes de datos y consultas complejas. Sus servicios se integran fluidamente, permitiendo la creación de pipelines de datos eficientes.
+
+
+  Servicios clave:
+    
+  -Cloud Storage: Funciona como un Data Lake para almacenar datos en estado bruto de manera segura y eficiente.
+
+  -BigQuery: Almacena y analiza grandes volúmenes de datos con procesamiento masivo y consultas SQL rápidas.
+
+  -Cloud Functions: Automatiza tareas ETL, permitiendo la limpieza y transformación de datos en respuesta a eventos, asegurando un flujo continuo y actualizado.
+
+
 
 ## Cronograma de trabajo
 
@@ -49,5 +61,11 @@ Este cronograma detalla un proyecto de tres semanas que abarca desde la comprens
 
 Nuestro grupo ha decidido adoptar la metodología **SCRUM** para mejorar la eficiencia y colaboración en la gestión de proyectos. 
 SCRUM es un marco de trabajo ágil diseñado para ayudar a los equipos a desarrollar productos de manera más eficiente y adaptativa. Permite la organización en ciclos cortos y controlados llamados **Sprints**, donde los equipos se enfocan en cumplir con objetivos específicos. SCRUM promueve la autoorganización, la entrega continua de valor y la adaptabilidad ante cambios.
+
++ Sprints: Cada sprint durará 2 semanas. Al inicio de cada sprint, tendremos una reunión de planificación donde definiremos los objetivos.
++ Daily Standup: Cada día, realizaremos una reunión corta de 15 minutos para compartir el progreso, discutir bloqueos y coordinar el trabajo diario.
++ Revisión de Sprint: Al final de cada sprint, haremos una demo del trabajo completado y recogeremos feedback.
++ Retrospectiva de Sprint: Revisaremos lo que ha ido bien y lo que puede mejorar, ajustando nuestra forma de trabajar para el siguiente sprint.
+
 
 
