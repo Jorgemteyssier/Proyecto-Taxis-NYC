@@ -18,7 +18,7 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 
 ![image](https://github.com/user-attachments/assets/08a04463-2d68-4166-95af-d4b2e955d94e)
 
-
+Optima Data es una innovadora startup en el campo del análisis de datos, dedicada a transformar información compleja en insights accionables. Fundada recientemente por un equipo de expertos apasionados, nos estamos posicionando rápidamente como un socio confiable y dinámico para empresas que buscan aprovechar el poder de sus datos para impulsar el crecimiento y la innovación. Nuestra juventud como empresa es nuestra fortaleza, permitiéndonos ser ágiles, innovadores y estar a la vanguardia de las últimas tendencias y tecnologías en el análisis de datos.
 
 ## Objetivo General
 
