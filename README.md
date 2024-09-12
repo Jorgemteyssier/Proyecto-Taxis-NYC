@@ -5,6 +5,11 @@
 En los últimos años, hemos sido testigos de un aumento significativo en la demanda de servicios de taxi, lo que ha tenido un impacto creciente en diversas dimensiones urbanas, especialmente en el medio ambiente. El sector del transporte se ha posicionado como el mayor emisor de CO2 en Estados Unidos, lo que subraya la urgencia de buscar soluciones sostenibles.
 En respuesta a esta problemática, nuestro proyecto se propone explorar la viabilidad y el impacto de incorporar una flota de taxis eléctricos en Nueva York. 
 
+## Tabla de contenidos
+- [Introducción](#introducción)
+- [¿Quiénes somos?](#quiénes-somos)
+- [Objetivo General](#objetivo-general)
+
 
 # ¿Quiénes somos?
 
