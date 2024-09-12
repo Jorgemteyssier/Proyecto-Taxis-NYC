@@ -1,6 +1,6 @@
 # Proyecto-Taxis-NYC
 
-                            ![image](https://github.com/user-attachments/assets/b394016f-a19f-47bc-accb-482d66ce165a)
+  ![image](https://github.com/user-attachments/assets/b394016f-a19f-47bc-accb-482d66ce165a)
 
 # Introducción 
 
