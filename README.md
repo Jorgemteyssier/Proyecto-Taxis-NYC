@@ -30,27 +30,24 @@ La importancia de este proyecto radica en su potencial para reducir significativ
 
 ## Stack tecnológico
 
-**Herramientas para la elaboracion del ETL y EDA**
-
-+ **Python**: Utilizamos librerías específicas para como Numpy, Pandas, Matplotlib, entre otras.
-
 **Herramientas de Organización y Comunicación**
 
-+ **Google Meet**: Para videoconferencias y reuniones virtuales.
++ <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_servicios_comunicacion_google-meet_icono/im_servicios_comunicacion_google_meet.png" width="20px" height="20px"> **Google Meet** : Para videoconferencias y reuniones virtuales.
 
-+ **Trello / Jira**: Para la gestión de proyectos y seguimiento de tareas.
++ <img src="img\Jira.png" width="20px"> **Trello / Jira** : Para la gestión de proyectos y seguimiento de tareas.
+
+**Herramientas para la elaboracion del ETL y EDA**
++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px" height="20px" alt="git logo"  />  **Git**: Para el control de versiones y la colaboración en el desarrollo de código.
+
++ <img src="https://cdn3.emoji.gg/emojis/9794-python.png" width="20px" height="20px" alt="python"></a> **Python**: Utilizamos librerías específicas para como Numpy, Pandas, Matplotlib, entre otras.
 
 + **Platform Google Cloud Platform(GCP)** ofrece soluciones escalables y de alto rendimiento para manejar grandes volúmenes de datos y consultas complejas. Sus servicios se integran fluidamente, permitiendo la creación de pipelines de datos eficientes.
-
-
-  Servicios clave:
-    
-  -Cloud Storage: Funciona como un Data Lake para almacenar datos en estado bruto de manera segura y eficiente.
-
-  -BigQuery: Almacena y analiza grandes volúmenes de datos con procesamiento masivo y consultas SQL rápidas.
-
-  -Cloud Functions: Automatiza tareas ETL, permitiendo la limpieza y transformación de datos en respuesta a eventos, asegurando un flujo continuo y actualizado.
-
+    *Servicios clave*:
+    -**Cloud Storage**: Funciona como un Data Lake para almacenar datos en estado bruto de manera segura y eficiente.
+  
+    -**BigQuery**: Almacena y analiza grandes volúmenes de datos con procesamiento masivo y consultas SQL rápidas.
+  
+    -**Cloud Functions**: Automatiza tareas ETL, permitiendo la limpieza y transformación de datos en respuesta a eventos, asegurando un flujo continuo y actualizado.
 
 
 ## Cronograma de trabajo
