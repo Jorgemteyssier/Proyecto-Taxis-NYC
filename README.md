@@ -13,6 +13,7 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 - [Objetivo General](#objetivo-general)
 - [Stack tecnológico](#stack-tecnológico)
 - [Cronograma de trabajo](#cronograma-de-trabajo)
+- [Sprint 1](#sprint-1)
 
 
 ## ¿Quiénes somos?
@@ -72,7 +73,8 @@ Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminac
     -**Cloud Functions**: Automatiza tareas ETL, permitiendo la limpieza y transformación de datos en respuesta a eventos, asegurando un flujo continuo y actualizado.
 
 **Herramientas para la Visualización de Datos**
-+ <img src="img\PowerBi.png" width="30px"> **Power BI**: Para la creación de informes interactivos y dashboards.
++ <img src="Imagenes/powerbi.png" width="20px" height="20px"> **Power BI**: Para la creación de dashboards.
++ <img src="Imagenes/canva.png" width="20px" height="20px"> **Canva**: Para la creación de presentaciones dinámicas y comprensibles.
 
 ## Cronograma de trabajo
 
