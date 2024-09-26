@@ -41,6 +41,14 @@ Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminac
 
 <img src="Imagenes/datos.PNG">
 
+## Propuesta 
+
+**Esquema de datos en la nube**: Un sistema organizado de almacenamiento y procesamiento de datos en la nube, donde se gestionará la información y se distribuirá a los componentes necesarios.
+
+**Aplicativo de Machine Learning**: Una aplicación basada en Machine Learning que funcionará como 
+
+**Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
+
 
 ## Stack tecnológico
 
@@ -63,6 +71,8 @@ Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminac
   
     -**Cloud Functions**: Automatiza tareas ETL, permitiendo la limpieza y transformación de datos en respuesta a eventos, asegurando un flujo continuo y actualizado.
 
+**Herramientas para la Visualización de Datos**
++ <img src="img\PowerBi.png" width="30px"> **Power BI**: Para la creación de informes interactivos y dashboards.
 
 ## Cronograma de trabajo
 
