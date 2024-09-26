@@ -28,6 +28,19 @@ Nuestro objetivo es doble: Por un lado, buscamos mitigar el impacto ambiental de
 Creemos firmemente que es posible contribuir a la sostenibilidad urbana sin descuidar las necesidades de movilidad de sus habitantes.
 La importancia de este proyecto radica en su potencial para reducir significativamente las emisiones de CO2, mejorar la calidad del aire en la ciudad y establecer un precedente para otras grandes urbes a nivel mundial. La transición hacia vehículos eléctricos en el sector del taxi no solo representa una oportunidad para Nueva York de liderar en innovación urbana, sino que también marca un paso crucial hacia un futuro más sostenible y respetuoso con el medio ambiente.
 
+## Objetivos específicos
+
+  1) Analizar la correlación ente el volumen de viajes y los niveles de contaminación tanto de aire como sonora.
+  2) Evaluar los beneficios de la electrificación de la flota en términos de reducción de emisiones y ruido
+  3) Desarrollar un modelo predictivo para anticipar el impacto ambiental y económico en la transición 
+
+## Conjunto de datos
+
+Se creará una base de datos, alojada en la nube, que servirá de base para el análisis y posterior creación del modelo de machine learning.
+Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminación** y **Servicio de Taxis**.
+
+
+
 ## Stack tecnológico
 
 **Herramientas de Organización y Comunicación**
