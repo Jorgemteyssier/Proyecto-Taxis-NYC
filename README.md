@@ -39,6 +39,7 @@ La importancia de este proyecto radica en su potencial para reducir significativ
 Se creará una base de datos, alojada en la nube, que servirá de base para el análisis y posterior creación del modelo de machine learning.
 Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminación** y **Servicio de Taxis**.
 
+<img src="Imagenes/datos.PNG">
 
 
 ## Stack tecnológico
