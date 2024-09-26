@@ -34,7 +34,7 @@ La importancia de este proyecto radica en su potencial para reducir significativ
 
 + <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_servicios_comunicacion_google-meet_icono/im_servicios_comunicacion_google_meet.png" width="20px" height="20px"> **Google Meet** : Para videoconferencias y reuniones virtuales.
 
-+ <img src="img\Jira.png" width="20px"> **Trello / Jira** : Para la gestión de proyectos y seguimiento de tareas.
++ <img src="Imagenes/trello.png" width="20" height="20"> **Trello** : Para la gestión de proyectos y seguimiento de tareas.
 
 **Herramientas para la elaboracion del ETL y EDA**
 + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px" height="20px" alt="git logo"  />  **Git**: Para el control de versiones y la colaboración en el desarrollo de código.
