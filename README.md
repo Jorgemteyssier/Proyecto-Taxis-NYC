@@ -71,7 +71,9 @@ Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminac
 + <img src="https://cdn3.emoji.gg/emojis/9794-python.png" width="20px" height="20px" alt="python"></a> **Python**: Utilizamos librerías específicas para como Numpy, Pandas, Matplotlib, entre otras.
 
 + **Platform Google Cloud Platform(GCP)** ofrece soluciones escalables y de alto rendimiento para manejar grandes volúmenes de datos y consultas complejas. Sus servicios se integran fluidamente, permitiendo la creación de pipelines de datos eficientes.
-    *Servicios clave*:
+
+  *Servicios clave*:
+
     -**Cloud Storage**: Funciona como un Data Lake para almacenar datos en estado bruto de manera segura y eficiente.
   
     -**BigQuery**: Almacena y analiza grandes volúmenes de datos con procesamiento masivo y consultas SQL rápidas.
@@ -106,3 +108,6 @@ Durante el primer sprint del proyecto, nos enfocamos en establecer una base sól
 Esta semana, en el sprint 2, profundizamos en el análisis de los datos y comenzamos a trabajar con Google Cloud, lo que nos permitió establecer una infraestructura de datos robusta y avanzar con el modelado gracias a las integraciones de Cloud Functions, Cloud Storage y BigQuery. Utilizamos Cloud Storage para almacenar todos los datos necesarios para su posterior análisis, que fueron procesados mediante un pipeline ETL. Este proceso fue automatizado gracias al desarrollo de una Cloud Function que limpia y prepara los datos a medida que ingresan a los buckets. Finalmente, los datos se trasladan a BigQuery, donde pueden ser modelados de manera eficiente, aprovechando su formato tabular y el uso del lenguaje SQL.
 
 <img src="Imagenes/canva.png" width="30px" height="30px">  [Presentación Sprint 2](https://www.canva.com/design/DAGRJFM4Lxg/CNs0D881LkFPuHyZTIUonw/view?utm_content=DAGRJFM4Lxg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+### Sprint 3
+Se ha puesto un énfasis especial en el diseño visual del dashboard, asegurando que los colores, gráficos y elementos visuales estén adecuadamente adaptados al tipo de datos y escala apropiada. Se ha empleado una jerarquía visual clara para destacar la información más relevante y se han utilizado técnicas de diseño para guiar la atención del usuario hacia los elementos clave.
