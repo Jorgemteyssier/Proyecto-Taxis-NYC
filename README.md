@@ -98,7 +98,7 @@ SCRUM es un marco de trabajo ágil diseñado para ayudar a los equipos a desarro
 ### Sprint 1
 Durante el primer sprint del proyecto, nos enfocamos en establecer una base sólida para el desarrollo del producto final. Utilizamos técnicas avanzadas de ciencia de datos y análisis para maximizar el valor entregado al cliente y su público objetivo. Se seleccionaron tecnologías adecuadas para manejar eficientemente los datos, se exploraron modelos de machine learning para predecir tarifas de taxi y se organizó una estructura de trabajo clara para asegurar un flujo de trabajo ordenado y eficaz. Este sprint sentó las bases para futuros desarrollos y refinamientos del producto.
 
-<img src="Imagenes/canva.png" width="30px" height="30px"> <https://www.canva.com/design/DAGQkFl6toc/9pJTaVY8Xym5KLHrF3gZKQ/view?utm_content=DAGQkFl6toc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#1>
+<img src="Imagenes/canva.png" width="30px" height="30px">  [Presentación Sprint 1](<https://www.canva.com/design/DAGQkFl6toc/9pJTaVY8Xym5KLHrF3gZKQ/view?utm_content=DAGQkFl6toc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel#1>)
 
 
 ### Sprint 2
