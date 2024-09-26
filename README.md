@@ -11,9 +11,14 @@ En respuesta a esta problemática, nuestro proyecto se propone explorar la viabi
 - [Introducción](#introducción)
 - [¿Quiénes somos?](#quiénes-somos)
 - [Objetivo General](#objetivo-general)
+- [Objetivos específicos](#objetivos-específicos)
+- [Conjunto de datos](#conjunto-de-datos)
+- [Propuesta](#propuesta)
 - [Stack tecnológico](#stack-tecnológico)
 - [Cronograma de trabajo](#cronograma-de-trabajo)
 - [Sprint 1](#sprint-1)
+- [Sprint 2](#sprint-2)
+- [Sprint 3](#sprint-3)
 
 
 ## ¿Quiénes somos?
