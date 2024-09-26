@@ -55,6 +55,7 @@ Estos datos estarán divididos en tres grandes ejes: **Vehiculos**, **Contaminac
 
 **Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
+<img src="Imagenes/propuesta.png">
 
 ## Stack tecnológico
 
