@@ -116,6 +116,7 @@ El dashboard creado es interactivo y ofrece una exploración intuitiva de los da
 
 El modelo de machine learning se encuentra deployado en Big Query (GCP) accesible a través del siguiente link:
 
+<img src="Imagenes/bigquery.png" width="30px" height="30px"> [Modelo Machine Learning](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1slinear-passkey-435400-k4!2ssouthamerica-east1!3s0ec46b73-73fb-4920-a597-ff5d04af0385!2e2&project=linear-passkey-435400-k4)
 
 
 
