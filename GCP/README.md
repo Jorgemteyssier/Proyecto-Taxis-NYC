@@ -4,7 +4,8 @@ La Plataforma de Google Cloud (GCP) proporciona un conjunto completo y versátil
 
 # Propuesta
 
-<img src="Imagenes/propuesta.png">
+![Propuesta](../Imagenes/propuesta.png)
+
 
 # Justificación
 
@@ -13,5 +14,11 @@ Google Cloud se destaca por la interconexión entre sus diversos servicios. Los 
 
 # Servicios utilizados
 
-Google Cloud Storage es un servicio de almacenamiento de objetos totalmente administrado, seguro y altamente disponible que forma parte de Google Cloud Platform. Está diseñado para almacenar y acceder a datos de manera fácil y escalable, siendo ideal para una amplia variedad de necesidades de almacenamiento y casos de uso.
++ **Google Cloud Storage** es un servicio de almacenamiento de objetos totalmente administrado, seguro y altamente disponible que forma parte de Google Cloud Platform. Está diseñado para almacenar y acceder a datos de manera fácil y escalable, siendo ideal para una amplia variedad de necesidades de almacenamiento y casos de uso.
+
+Diseño del Datalake que almacenerá datos en brutos y limpios:
+
+![Datalake](../Imagenes/datalke.png)
+
++  **
 
