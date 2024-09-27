@@ -18,7 +18,7 @@ months = [
 ]
 
 # Años de interés (2009 en adelante)
-years = list(range(2014, 2025))
+years = list(range(2014, 2015))
 
 # Directorio base donde se guardarán los archivos
 base_dir = 'data'
