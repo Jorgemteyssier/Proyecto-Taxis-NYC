@@ -1,0 +1,882 @@
+Category,Model,Model Year,Manufacturer,Fuel,All-Electric Range,PHEV Total Range,Alternative Fuel Economy City,Alternative Fuel Economy Highway,Alternative Fuel Economy Combined,Conventional Fuel Economy City,Conventional Fuel Economy Highway,Conventional Fuel Economy Combined,Transmission Type,Number of Passengers
+Sedan/Wagon,NSX,2022.0,Acura,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,22.0,21.0,Auto,0
+Sedan/Wagon,A3 ,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,29.0,38.0,32.0,Auto,0
+Sedan/Wagon,A3 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,28.0,36.0,31.0,Auto,0
+Sedan/Wagon,A4 allroad quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,30.0,26.0,Auto,0
+Sedan/Wagon,A4 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,26.0,34.0,29.0,Auto,0
+Sedan/Wagon,A4 S line quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,31.0,27.0,Auto,0
+Sedan/Wagon,A5 Cabriolet quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,A5 Coupe quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,31.0,27.0,Auto,0
+Sedan/Wagon,A5 Sportback quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,26.0,34.0,29.0,Auto,0
+Sedan/Wagon,A5 Sportback S line quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,31.0,27.0,Auto,0
+Sedan/Wagon,A6 Allroad quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,28.0,23.0,Auto,0
+Sedan/Wagon,A6 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,30.0,24.0,Auto,0
+Sedan/Wagon,A6 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,33.0,26.0,Auto,0
+Sedan/Wagon,A7 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,30.0,24.0,Auto,0
+Sedan/Wagon,A7 TFSI e quattro,2022.0,Audi,Plug-in Hybrid Electric,26.0,410.0,0.0,0.0,70.0,25.0,31.0,27.0,Auto,0
+Sedan/Wagon,A8L quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,28.0,22.0,Auto,0
+Sedan/Wagon,e-tron GT,2022.0,Audi,Electric,238.0,0.0,81.0,83.0,82.0,0.0,0.0,0.0,Auto,0
+SUV,e-tron quattro,2022.0,Audi,Electric,222.0,0.0,78.0,77.0,78.0,0.0,0.0,0.0,Auto,0
+SUV,"e-tron S (20"" wheels)",2022.0,Audi,Electric,208.0,0.0,72.0,75.0,73.0,0.0,0.0,0.0,Auto,0
+SUV,"e-tron S (21"" or 22"" wheels)",2022.0,Audi,Electric,181.0,0.0,62.0,64.0,63.0,0.0,0.0,0.0,Auto,0
+SUV,e-tron Sportback quattro,2022.0,Audi,Electric,218.0,0.0,76.0,78.0,77.0,0.0,0.0,0.0,Auto,0
+SUV,"e-tron S Sportback (20"" wheels)",2022.0,Audi,Electric,212.0,0.0,73.0,78.0,75.0,0.0,0.0,0.0,Auto,0
+SUV,"e-tron S Sportback (21"" or 22"" wheels)",2022.0,Audi,Electric,185.0,0.0,64.0,66.0,65.0,0.0,0.0,0.0,Auto,0
+SUV,Q4 e-tron quattro,2022.0,Audi,Electric,241.0,0.0,100.0,89.0,95.0,0.0,0.0,0.0,Auto,0
+SUV,Q4 e-tron Sportback quattro,2022.0,Audi,Electric,241.0,0.0,100.0,89.0,95.0,0.0,0.0,0.0,Auto,0
+SUV,Q5 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,28.0,25.0,Auto,0
+SUV,Q5 S line quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,28.0,25.0,Auto,0
+SUV,Q5 Sportback S line quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,28.0,25.0,Auto,0
+Sedan/Wagon,Q5 TFSI e quattro,2022.0,Audi,Plug-in Hybrid Electric,23.0,390.0,0.0,0.0,61.0,25.0,27.0,26.0,Auto,0
+SUV,Q7 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+SUV,Q8 quattro,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+Sedan/Wagon,RS 6 Avant,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,22.0,17.0,Auto,0
+Sedan/Wagon,RS7,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,22.0,17.0,Auto,0
+SUV,RS e-tron GT,2022.0,Audi,Electric,241.0,0.0,100.0,89.0,95.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,RS Q8,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,13.0,19.0,15.0,Auto,0
+Sedan/Wagon,S6,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,28.0,22.0,Auto,0
+Sedan/Wagon,S7,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,28.0,22.0,Auto,0
+Sedan/Wagon,S8,2022.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,14.0,23.0,17.0,Auto,0
+Sedan/Wagon,Flying Spur Hybrid,2022.0,Bentley Motors,Plug-in Hybrid Electric,21.0,430.0,0.0,0.0,46.0,17.0,22.0,19.0,Auto,0
+Sedan/Wagon,330e Sedan,2022.0,BMW,Plug-in Hybrid Electric,23.0,320.0,0.0,0.0,75.0,25.0,33.0,28.0,Auto,0
+Sedan/Wagon,330e xDrive,2022.0,BMW,Plug-in Hybrid Electric,20.0,290.0,0.0,0.0,67.0,22.0,30.0,25.0,Auto,0
+Sedan/Wagon,530e Sedan,2022.0,BMW,Plug-in Hybrid Electric,21.0,340.0,0.0,0.0,64.0,24.0,29.0,26.0,Auto,0
+Sedan/Wagon,530e xDrive Sedan,2022.0,BMW,Plug-in Hybrid Electric,19.0,320.0,0.0,0.0,62.0,22.0,28.0,25.0,Auto,0
+Sedan/Wagon,540i Sedan,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,32.0,27.0,Auto,0
+Sedan/Wagon,540i xDrive Sedan,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+Sedan/Wagon,745e xDrive,2022.0,BMW,Plug-in Hybrid Electric,17.0,290.0,0.0,0.0,56.0,19.0,26.0,22.0,Auto,0
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (18"" Wheels) ",2022.0,BMW,Electric,301.0,0.0,109.0,108.0,109.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (19"" Wheels) ",2022.0,BMW,Electric,282.0,0.0,100.0,98.0,99.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"i4 M50 Gran Coupe (19"" Wheels) ",2022.0,BMW,Electric,270.0,0.0,94.0,98.0,96.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"i4 M50 Gran Coupe (20"" Wheels) ",2022.0,BMW,Electric,227.0,0.0,79.0,80.0,80.0,0.0,0.0,0.0,Auto,0
+SUV,"iX xDrive50 (20"" Wheels) ",2022.0,BMW,Electric,324.0,0.0,86.0,87.0,86.0,0.0,0.0,0.0,Auto,0
+SUV,"iX xDrive50 (21"" Wheels) ",2022.0,BMW,Electric,305.0,0.0,82.0,84.0,83.0,0.0,0.0,0.0,Auto,0
+SUV,"iX xDrive50 (22"" Wheels) ",2022.0,BMW,Electric,315.0,0.0,86.0,85.0,86.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,M340i Sedan,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,32.0,26.0,Auto,0
+Sedan/Wagon,M340i xDrive Sedan,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,32.0,26.0,Auto,0
+Sedan/Wagon,M440i Convertible,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,M440i Coupe,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,34.0,28.0,Auto,0
+Sedan/Wagon,M440i xDrive Convertible,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,M440i xDrive Coupe,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,32.0,26.0,Auto,0
+Sedan/Wagon,M440i xDrive Gran Coupe,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+SUV,X3 M40i,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,X4 M40i,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,X5 sDrive40i,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,X5 xDrive40i,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,25.0,23.0,Auto,0
+SUV,X5 xDrive45e,2022.0,BMW,Plug-in Hybrid Electric,31.0,400.0,0.0,0.0,50.0,19.0,22.0,20.0,Auto,0
+SUV,X6 xDrive40i,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,25.0,23.0,Auto,0
+SUV,X7 xDrive40i,2022.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Escalade 2WD,2022.0,Cadillac,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Escalade 4WD,2022.0,Cadillac,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Sedan/Wagon,Bolt EUV,2022.0,Chevrolet,Electric,247.0,0.0,125.0,104.0,115.0,0.0,0.0,0.0,0,0
+Sedan/Wagon,Bolt EV,2022.0,Chevrolet,Electric,259.0,0.0,131.0,109.0,120.0,0.0,0.0,0.0,0,0
+Pickup,Colorado 2WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,30.0,23.0,Auto,0
+Pickup,Colorado 4WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,19.0,28.0,22.0,Auto,0
+Pickup,Colorado ZR2 4WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,18.0,22.0,19.0,Auto,0
+Pickup,Silverado 2WD,2022.0,Chevrolet,Ethanol (E85),0.0,0.0,11.0,15.0,12.0,15.0,19.0,16.0,Auto,0
+Pickup,Silverado 2WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Pickup,Silverado 4WD,2022.0,Chevrolet,Ethanol (E85),0.0,0.0,11.0,13.0,12.0,14.0,16.0,15.0,Auto,0
+Pickup,Silverado 4WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,26.0,23.0,Auto,0
+Pickup,Silverado 4WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,26.0,24.0,Auto,0
+Pickup,Silverado 4WD - Mud Terrain Tires,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,23.0,21.0,Auto,0
+Pickup,Silverado 4WD - Mud Terrain Tires,2022.0,Chevrolet,Ethanol (E85),0.0,0.0,10.0,12.0,11.0,14.0,16.0,15.0,Auto,0
+SUV,Suburban 2WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Suburban 4WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,Tahoe 2WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,28.0,24.0,Auto,0
+SUV,Tahoe 4WD,2022.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Van,Pacifica Hybrid,2022.0,Chrysler,Plug-in Hybrid Electric,32.0,520.0,0.0,0.0,82.0,29.0,30.0,30.0,Auto,0
+Sedan/Wagon,SF90 Spyder,2022.0,Ferrari,Plug-in Hybrid Electric,8.0,320.0,0.0,0.0,44.0,16.0,19.0,17.0,Auto,0
+Sedan/Wagon,SF90 Stradale ,2022.0,Ferrari,Plug-in Hybrid Electric,9.0,330.0,0.0,0.0,51.0,16.0,20.0,18.0,Auto,0
+Sedan/Wagon,Escape AWD HEV,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,37.0,40.0,Auto,0
+Sedan/Wagon,Escape FWD HEV,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,44.0,37.0,41.0,Auto,0
+SUV,Escape FWD PHEV,2022.0,Ford,Plug-in Hybrid Electric,37.0,520.0,0.0,0.0,105.0,43.0,38.0,41.0,Auto,0
+SUV,Explorer AWD FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,11.0,15.0,13.0,16.0,24.0,19.0,Auto,0
+SUV,Explorer HEV AWD,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,26.0,25.0,Auto,0
+SUV,Explorer HEV RWD,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,27.0,28.0,27.0,Auto,0
+SUV,Explorer Platinum HEV ,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,24.0,23.0,Auto,0
+SUV,Explorer Platinum HEV ,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,25.0,26.0,Auto,0
+Pickup,F-150 2WD FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,14.0,18.0,16.0,19.0,24.0,21.0,Auto,0
+Pickup,F-150 2WD FFV - Without Start/Stop,2022.0,Ford,Ethanol (E85),0.0,0.0,12.0,18.0,14.0,17.0,24.0,19.0,Auto,0
+Pickup,F-150 2WD FFV - With Start/Stop,2022.0,Ford,Ethanol (E85),0.0,0.0,11.0,18.0,14.0,17.0,24.0,20.0,Auto,0
+Pickup,F-150 4WD FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,14.0,18.0,15.0,19.0,22.0,20.0,Auto,0
+Pickup,F-150 4WD FFV - Without Start/Stop,2022.0,Ford,Ethanol (E85),0.0,0.0,12.0,17.0,14.0,16.0,22.0,18.0,Auto,0
+Pickup,F-150 4WD FFV - With Start/Stop,2022.0,Ford,Ethanol (E85),0.0,0.0,11.0,17.0,13.0,16.0,22.0,19.0,Auto,0
+Pickup,F150 Lightning 4WD,2022.0,Ford,Electric,230.0,0.0,76.0,61.0,68.0,0.0,0.0,0.0,Auto,0
+Pickup,F150 Lightning 4WD Extended Range,2022.0,Ford,Electric,320.0,0.0,78.0,63.0,70.0,0.0,0.0,0.0,Auto,0
+Pickup,F150 Lightning Platinum 4WD,2022.0,Ford,Electric,300.0,0.0,73.0,60.0,66.0,0.0,0.0,0.0,Auto,0
+Pickup,F150 Pickup 2WD HEV,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,25.0,25.0,Auto,0
+Pickup,F150 Pickup 4WD HEV,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,23.0,23.0,Auto,0
+Pickup,Maverick Pickup HEV,2022.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,42.0,33.0,37.0,Auto,0
+SUV,Mustang Mach-E AWD,2022.0,Ford,Electric,224.0,0.0,98.0,86.0,93.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E AWD California Route 1,2022.0,Ford,Electric,312.0,0.0,105.0,91.0,98.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E AWD Extended,2022.0,Ford,Electric,277.0,0.0,97.0,84.0,91.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E GT AWD,2022.0,Ford,Electric,270.0,0.0,90.0,77.0,84.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E GT Performance,2022.0,Ford,Electric,260.0,0.0,88.0,75.0,82.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E RWD,2022.0,Ford,Electric,247.0,0.0,110.0,96.0,103.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E RWD California Route 1,2022.0,Ford,Electric,314.0,0.0,108.0,94.0,101.0,0.0,0.0,0.0,Auto,0
+SUV,Mustang Mach-E RWD Extended,2022.0,Ford,Electric,303.0,0.0,104.0,90.0,97.0,0.0,0.0,0.0,Auto,0
+Van,Transit Connect Van FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,18.0,20.0,19.0,24.0,27.0,25.0,Auto,0
+Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,16.0,21.0,18.0,24.0,28.0,26.0,Auto,0
+Van,Transit T150 Passenger Van 2WD FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,11.0,15.0,12.0,15.0,19.0,17.0,Auto,0
+Van,Transit T150 Passenger Van 4WD FFV,2022.0,Ford,Ethanol (E85),0.0,0.0,11.0,14.0,12.0,14.0,18.0,16.0,Auto,0
+Pickup,Canyon 2WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,30.0,23.0,Auto,0
+Pickup,Canyon 4WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,19.0,28.0,22.0,Auto,0
+Pickup,Sierra 2WD,2022.0,GMC,Ethanol (E85),0.0,0.0,11.0,15.0,12.0,15.0,19.0,16.0,Auto,0
+Pickup,Sierra 2WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,23.0,30.0,26.0,Auto,0
+Pickup,Sierra 4WD,2022.0,GMC,Ethanol (E85),0.0,0.0,11.0,13.0,12.0,14.0,18.0,16.0,Auto,0
+Pickup,Sierra 4WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,26.0,24.0,Auto,0
+Pickup,Sierra 4WD - Mud Terrain Tires,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,23.0,21.0,Auto,0
+Pickup,Sierra 4WD - Mud Terrain Tires,2022.0,GMC,Ethanol (E85),0.0,0.0,11.0,13.0,12.0,14.0,16.0,15.0,Auto,0
+SUV,Yukon 2WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Yukon 4WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,Yukon XL 2WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Yukon XL 4WD,2022.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Sedan/Wagon,Accord,2022.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,48.0,47.0,47.0,Auto,0
+Sedan/Wagon,Accord Sport/Touring,2022.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,44.0,41.0,43.0,Auto,0
+SUV,CR-V AWD,2022.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,40.0,35.0,38.0,Auto,0
+Sedan/Wagon,Insight,2022.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,55.0,49.0,52.0,Auto,0
+Sedan/Wagon,Insight Touring,2022.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,45.0,48.0,Auto,0
+Sedan/Wagon,Elantra Hybrid,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,49.0,52.0,50.0,Auto,0
+Sedan/Wagon,Elantra Hybrid Blue,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,53.0,56.0,54.0,Auto,0
+Sedan/Wagon,Ioniq,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,54.0,57.0,55.0,Auto,0
+SUV,Ioniq 5 AWD (Long Range),2022.0,Hyundai,Electric,256.0,0.0,110.0,87.0,98.0,0.0,0.0,0.0,Auto,0
+SUV,Ioniq 5 RWD,2022.0,Hyundai,Electric,220.0,0.0,127.0,94.0,110.0,0.0,0.0,0.0,Auto,0
+SUV,Ioniq 5 RWD (Long Range),2022.0,Hyundai,Electric,303.0,0.0,132.0,98.0,114.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Ioniq Blue,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,58.0,60.0,59.0,Auto,0
+Sedan/Wagon,Ioniq Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,29.0,620.0,0.0,0.0,119.0,52.0,51.0,52.0,Auto,0
+SUV,Kona Electric,2022.0,Hyundai,Electric,258.0,0.0,132.0,108.0,120.0,0.0,0.0,0.0,Auto,0
+SUV,Nexo,2022.0,Hyundai,Hydrogen Fuel Cell,0.0,0.0,59.0,54.0,57.0,0.0,0.0,0.0,Auto,0
+SUV,Nexo Blue,2022.0,Hyundai,Hydrogen Fuel Cell,0.0,0.0,65.0,58.0,61.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Santa Fe Hybrid,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,33.0,30.0,32.0,Auto,0
+Sedan/Wagon,Santa Fe Hybrid Blue,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,36.0,31.0,34.0,Auto,0
+Sedan/Wagon,Santa Fe Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,31.0,440.0,0.0,0.0,76.0,33.0,32.0,33.0,Auto,0
+Sedan/Wagon,Sonata Hybrid,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,45.0,51.0,47.0,Auto,0
+Sedan/Wagon,Sonata Hybrid Blue,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,50.0,54.0,52.0,Auto,0
+Sedan/Wagon,Tucson Hybrid,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,37.0,36.0,37.0,Auto,0
+Sedan/Wagon,Tucson Hybrid Blue,2022.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,Auto,0
+SUV,Tucson Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,33.0,420.0,0.0,0.0,80.0,35.0,35.0,35.0,Auto,0
+SUV,E-PACE MHEV,2022.0,Jaguar,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,F-PACE P340 MHEV,2022.0,Jaguar,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,27.0,22.0,Auto,0
+SUV,F-PACE P400 MHEV,2022.0,Jaguar,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,26.0,22.0,Auto,0
+SUV,Grand Cherokee 4xe,2022.0,Jeep,Plug-in Hybrid Electric,26.0,470.0,0.0,0.0,56.0,23.0,24.0,23.0,Auto,0
+SUV,Wagoneer 4x2,2022.0,Jeep,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,16.0,22.0,18.0,Auto,0
+SUV,Wagoneer 4x4,2022.0,Jeep,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,20.0,17.0,Auto,0
+SUV,Wrangler 2dr 4x4,2022.0,Jeep,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,24.0,21.0,Auto,0
+SUV,Wrangler 4dr 4x4,2022.0,Jeep,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Wrangler 4dr 4xe,2022.0,Jeep,Plug-in Hybrid Electric,22.0,370.0,0.0,0.0,49.0,20.0,20.0,20.0,Auto,0
+Sedan/Wagon,EV6 AWD (Long Range) ,2022.0,Kia,Electric,274.0,0.0,116.0,94.0,105.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,EV6 RWD,2022.0,Kia,Electric,232.0,0.0,136.0,100.0,117.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,EV6 RWD (Long Range) ,2022.0,Kia,Electric,310.0,0.0,134.0,101.0,117.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Niro,2022.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,46.0,49.0,Auto,0
+Sedan/Wagon,Niro Electric,2022.0,Kia,Electric,239.0,0.0,123.0,102.0,112.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Niro FE,2022.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,53.0,48.0,50.0,Auto,0
+Sedan/Wagon,Niro Plug-in Hybrid,2022.0,Kia,Plug-in Hybrid Electric,26.0,560.0,0.0,0.0,105.0,48.0,44.0,46.0,Auto,0
+Sedan/Wagon,Niro Touring,2022.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,46.0,40.0,43.0,Auto,0
+SUV,Sorento Hybrid AWD,2022.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,36.0,33.0,35.0,Auto,0
+SUV,Sorento Hybrid FWD,2022.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,39.0,35.0,37.0,Auto,0
+SUV,Sorento Plug-in Hybrid,2022.0,Kia,Plug-in Hybrid Electric,32.0,460.0,0.0,0.0,79.0,35.0,33.0,34.0,Auto,0
+SUV,Defender 110 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,22.0,19.0,Auto,0
+SUV,Defender 90 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,22.0,19.0,Auto,0
+SUV,Discovery MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,24.0,21.0,Auto,0
+SUV,New Range Rover P360 LWB MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,26.0,21.0,Auto,0
+SUV,New Range Rover P360 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,26.0,21.0,Auto,0
+SUV,New Range Rover P400 LWB MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,26.0,21.0,Auto,0
+SUV,New Range Rover P400 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,26.0,21.0,Auto,0
+SUV,Range Rover Evoque MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,Range Rover P360 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+SUV,Range Rover P400 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+SUV,Range Rover Sport P360 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Range Rover Sport P400 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Range Rover Sport PHEV,2022.0,Land Rover,Plug-in Hybrid Electric,19.0,480.0,0.0,0.0,42.0,18.0,21.0,19.0,Auto,0
+SUV,Range Rover Velar P340 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,Range Rover Velar P400 MHEV,2022.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,25.0,21.0,Auto,0
+Sedan/Wagon,ES 300h,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,44.0,44.0,Auto,0
+Sedan/Wagon,LC 500h,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,26.0,34.0,29.0,Auto,0
+Sedan/Wagon,LS 500h AWD,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+SUV,NX 350h AWD,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,41.0,37.0,39.0,Auto,0
+SUV,NX 450+ AWD,2022.0,Lexus,Plug-in Hybrid Electric,37.0,550.0,0.0,0.0,84.0,38.0,33.0,36.0,Auto,0
+SUV,RX 450h AWD,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,31.0,28.0,30.0,Auto,0
+SUV,RX 450h L AWD,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,29.0,28.0,29.0,Auto,0
+Sedan/Wagon,UX 250h,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,41.0,42.0,Auto,0
+Sedan/Wagon,UX 250h AWD,2022.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,41.0,38.0,39.0,Auto,0
+SUV,Aviator AWD PHEV,2022.0,Lincoln,Plug-in Hybrid Electric,21.0,460.0,0.0,0.0,56.0,22.0,25.0,23.0,Auto,0
+SUV,Corsair AWD PHEV,2022.0,Lincoln,Plug-in Hybrid Electric,28.0,430.0,0.0,0.0,78.0,34.0,32.0,33.0,Auto,0
+Sedan/Wagon,"Air Dream P AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,471.0,0.0,117.0,114.0,116.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Air Dream P AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,451.0,0.0,110.0,111.0,111.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Air Dream R AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,520.0,0.0,126.0,125.0,125.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Air Dream R AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,481.0,0.0,115.0,117.0,116.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Air G Touring AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,516.0,0.0,130.0,132.0,131.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Air G Touring AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,469.0,0.0,121.0,122.0,121.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,MX-30,2022.0,Mazda,Electric,100.0,0.0,98.0,85.0,92.0,0.0,0.0,0.0,0,0
+Sedan/Wagon,AMG E53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,29.0,24.0,Auto,0
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,28.0,23.0,Auto,0
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,28.0,23.0,Auto,0
+SUV,AMG GLE 53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,22.0,19.0,Auto,0
+SUV,AMG GLE 53 4MATIC+ (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,21.0,19.0,Auto,0
+SUV,AMG GLE 63 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,14.0,18.0,15.0,Auto,0
+SUV,AMG GLE 63 S 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,19.0,16.0,Auto,0
+SUV,AMG GLE 63 S 4MATIC+ (coupe),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,19.0,16.0,Auto,0
+Sedan/Wagon,AMG GT 43 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,25.0,21.0,Auto,0
+Sedan/Wagon,AMG GT 53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,25.0,21.0,Auto,0
+Sedan/Wagon,C 300,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,35.0,29.0,Auto,0
+Sedan/Wagon,C 300 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,33.0,27.0,Auto,0
+Sedan/Wagon,CLS 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,30.0,25.0,Auto,0
+Sedan/Wagon,E 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,30.0,25.0,Auto,0
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,28.0,24.0,Auto,0
+Sedan/Wagon,E 450 4MATIC (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,24.0,Auto,0
+Sedan/Wagon,E 450 4MATIC (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,24.0,Auto,0
+Sedan/Wagon,E 450 (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+Sedan/Wagon,E 450 (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+Sedan/Wagon,EQS450+,2022.0,Mercedes-Benz,Electric,350.0,0.0,97.0,97.0,97.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,EQS 580 4MATIC,2022.0,Mercedes-Benz,Electric,340.0,0.0,92.0,99.0,95.0,0.0,0.0,0.0,Auto,0
+SUV,GLE 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,GLE 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,25.0,22.0,Auto,0
+SUV,GLE 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,16.0,21.0,18.0,Auto,0
+SUV,GLS 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,24.0,20.0,Auto,0
+SUV,GLS 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,16.0,21.0,18.0,Auto,0
+SUV,GLS 600 4MATIC Maybach,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,14.0,20.0,17.0,Auto,0
+Sedan/Wagon,S 500 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,30.0,24.0,Auto,0
+Sedan/Wagon,S 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,16.0,25.0,19.0,Auto,0
+Sedan/Wagon,S 580 4MATIC Maybach,2022.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,24.0,18.0,Auto,0
+Sedan/Wagon,Cooper SE Countryman ALL4,2022.0,Mini,Plug-in Hybrid Electric,18.0,300.0,0.0,0.0,73.0,29.0,30.0,29.0,Auto,0
+Sedan/Wagon,Cooper SE Hardtop 2 door,2022.0,Mini,Electric,114.0,0.0,119.0,100.0,110.0,0.0,0.0,0.0,Auto,0
+SUV,Outlander PHEV,2022.0,Mitsubishi,Plug-in Hybrid Electric,24.0,320.0,0.0,0.0,74.0,26.0,26.0,26.0,Auto,0
+Sedan/Wagon,Leaf (40 kWh battery pack),2022.0,Nissan,Electric,149.0,0.0,123.0,99.0,111.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Leaf (62 kWh battery pack),2022.0,Nissan,Electric,226.0,0.0,118.0,97.0,108.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2022.0,Nissan,Electric,215.0,0.0,114.0,94.0,104.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Polestar 2 (Dual Motor),2022.0,Polestar Automotive USA,Electric,249.0,0.0,94.0,84.0,89.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Polestar 2 (Single Motor),2022.0,Polestar Automotive USA,Electric,270.0,0.0,113.0,100.0,107.0,0.0,0.0,0.0,Auto,0
+SUV,Cayenne/Coupe/Platinum e-Hybrid,2022.0,Porsche,Plug-in Hybrid Electric,17.0,430.0,0.0,0.0,46.0,20.0,22.0,21.0,Auto,0
+SUV,Cayenne Turbo S/Coupe e-Hybrid ,2022.0,Porsche,Plug-in Hybrid Electric,15.0,370.0,0.0,0.0,42.0,17.0,20.0,18.0,Auto,0
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2022.0,Porsche,Plug-in Hybrid Electric,19.0,480.0,0.0,0.0,52.0,21.0,24.0,22.0,Auto,0
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2022.0,Porsche,Plug-in Hybrid Electric,19.0,480.0,0.0,0.0,50.0,21.0,23.0,22.0,Auto,0
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive/ST,2022.0,Porsche,Plug-in Hybrid Electric,17.0,430.0,0.0,0.0,48.0,18.0,22.0,19.0,Auto,0
+Sedan/Wagon,Taycan 4 Cross Turismo,2022.0,Porsche,Electric,215.0,0.0,76.0,77.0,76.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan 4S Cross Turismo,2022.0,Porsche,Electric,215.0,0.0,75.0,75.0,75.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan 4S Perf Battery,2022.0,Porsche,Electric,199.0,0.0,79.0,80.0,79.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2022.0,Porsche,Electric,227.0,0.0,72.0,81.0,77.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Perf Battery,2022.0,Porsche,Electric,200.0,0.0,76.0,84.0,79.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Perf Battery Plus,2022.0,Porsche,Electric,225.0,0.0,71.0,80.0,75.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Turbo,2022.0,Porsche,Electric,212.0,0.0,71.0,75.0,73.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Turbo Cross Turismo,2022.0,Porsche,Electric,204.0,0.0,72.0,72.0,72.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Turbo S,2022.0,Porsche,Electric,201.0,0.0,69.0,71.0,70.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Turbo S Cross Turismo,2022.0,Porsche,Electric,202.0,0.0,74.0,73.0,73.0,0.0,0.0,0.0,Auto,0
+Pickup,1500 4X2,2022.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,25.0,22.0,Auto,0
+Pickup,1500 4X2,2022.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+Pickup,1500 4X4,2022.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,22.0,19.0,Auto,0
+Pickup,1500 4X4,2022.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+Pickup,1500 HFE 4X2,2022.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,23.0,Auto,0
+SUV,R1S,2022.0,Rivian ,Electric,316.0,0.0,73.0,65.0,69.0,0.0,0.0,0.0,Auto,0
+Pickup,R1T,2022.0,Rivian ,Electric,314.0,0.0,74.0,66.0,70.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model 3 (Long Range) AWD,2022.0,Tesla,Electric,353.0,0.0,134.0,126.0,131.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model 3 Performance AWD,2022.0,Tesla,Electric,315.0,0.0,118.0,107.0,113.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model 3 RWD,2022.0,Tesla,Electric,272.0,0.0,138.0,126.0,132.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model S ,2022.0,Tesla,Electric,405.0,0.0,124.0,115.0,120.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Model S Plaid (19"" Wheels)",2022.0,Tesla,Electric,396.0,0.0,119.0,112.0,116.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2022.0,Tesla,Electric,348.0,0.0,102.0,99.0,101.0,0.0,0.0,0.0,Auto,0
+SUV,Model X AWD,2022.0,Tesla,Electric,348.0,0.0,107.0,97.0,102.0,0.0,0.0,0.0,Auto,0
+SUV,"Model X Plaid (20"" Wheels)",2022.0,Tesla,Electric,333.0,0.0,103.0,93.0,98.0,0.0,0.0,0.0,Auto,0
+SUV,"Model X Plaid (22"" Wheels)",2022.0,Tesla,Electric,311.0,0.0,94.0,88.0,91.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y AWD,2022.0,Tesla,Electric,279.0,0.0,129.0,116.0,123.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y (Long Range) AWD,2022.0,Tesla,Electric,330.0,0.0,127.0,117.0,122.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y Performance AWD,2022.0,Tesla,Electric,303.0,0.0,115.0,106.0,111.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y RWD,2022.0,Tesla,Electric,244.0,0.0,140.0,119.0,129.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Avalon Hybrid ,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,Auto,0
+Sedan/Wagon,Avalon Hybrid XLE,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,44.0,44.0,Auto,0
+Sedan/Wagon,Camry Hybrid LE,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,53.0,52.0,Auto,0
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,44.0,47.0,46.0,Auto,0
+Sedan/Wagon,Corolla Hybrid,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,53.0,52.0,52.0,Auto,0
+SUV,Highlander Hybrid,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,36.0,35.0,36.0,Auto,0
+SUV,Highlander Hybrid AWD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,35.0,35.0,35.0,Auto,0
+SUV,Highlander Hybrid AWD LTD/PLAT,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,35.0,34.0,35.0,Auto,0
+Sedan/Wagon,Mirai LE,2022.0,Toyota,Hydrogen Fuel Cell,0.0,0.0,76.0,71.0,74.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mirai Limited,2022.0,Toyota,Hydrogen Fuel Cell,0.0,0.0,67.0,64.0,65.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mirai XLE,2022.0,Toyota,Hydrogen Fuel Cell,0.0,0.0,76.0,71.0,74.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Prius,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,54.0,50.0,52.0,Auto,0
+Sedan/Wagon,Prius AWD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,47.0,49.0,Auto,0
+Sedan/Wagon,Prius Eco,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,58.0,53.0,56.0,Auto,0
+Sedan/Wagon,Prius Prime,2022.0,Toyota,Plug-in Hybrid Electric,25.0,640.0,0.0,0.0,133.0,55.0,53.0,54.0,Auto,0
+SUV,RAV4 Hybrid AWD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,41.0,38.0,40.0,Auto,0
+Sedan/Wagon,RAV4 Prime AWD,2022.0,Toyota,Plug-in Hybrid Electric,42.0,600.0,0.0,0.0,94.0,40.0,36.0,38.0,Auto,0
+Van,Sienna AWD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,35.0,36.0,35.0,Auto,0
+Pickup,TUNDRA 2WD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,24.0,22.0,Auto,0
+Pickup,TUNDRA 4WD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,22.0,20.0,Auto,0
+Pickup,TUNDRA 4WD PRO,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,20.0,19.0,Auto,0
+SUV,Venza AWD,2022.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,40.0,37.0,39.0,Auto,0
+SUV,ID.4 AWD Pro,2022.0,Volkswagen,Electric,251.0,0.0,106.0,96.0,101.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 AWD Pro S,2022.0,Volkswagen,Electric,245.0,0.0,100.0,90.0,95.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 Pro,2022.0,Volkswagen,Electric,275.0,0.0,116.0,98.0,107.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 Pro S,2022.0,Volkswagen,Electric,262.0,0.0,110.0,93.0,102.0,0.0,0.0,0.0,Auto,0
+SUV,C40 Recharge Twin,2022.0,Volvo,Electric,226.0,0.0,94.0,80.0,87.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,S60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,22.0,510.0,0.0,0.0,69.0,28.0,33.0,30.0,Auto,0
+Sedan/Wagon,S60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,40.0,530.0,0.0,0.0,74.0,30.0,33.0,31.0,Auto,0
+Sedan/Wagon,S90 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,21.0,490.0,0.0,0.0,63.0,28.0,31.0,30.0,Auto,0
+Sedan/Wagon,S90 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,38.0,500.0,0.0,0.0,66.0,28.0,31.0,29.0,Auto,0
+Sedan/Wagon,V60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,22.0,510.0,0.0,0.0,69.0,28.0,33.0,30.0,Auto,0
+Sedan/Wagon,V60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,40.0,530.0,0.0,0.0,74.0,30.0,33.0,31.0,Auto,0
+SUV,XC40 Recharge Twin,2022.0,Volvo,Electric,223.0,0.0,92.0,79.0,85.0,0.0,0.0,0.0,Auto,0
+SUV,XC60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,19.0,500.0,0.0,0.0,57.0,24.0,27.0,25.0,Auto,0
+SUV,XC60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,36.0,560.0,0.0,0.0,63.0,28.0,28.0,28.0,Auto,0
+SUV,XC90 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,18.0,520.0,0.0,0.0,55.0,26.0,28.0,27.0,Auto,0
+SUV,XC90 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,36.0,530.0,0.0,0.0,66.0,25.0,27.0,26.0,Auto,0
+Sedan/Wagon,NSX,2021.0,Acura,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,22.0,21.0,Auto,0
+Sedan/Wagon,A4 allroad quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,30.0,26.0,Auto,0
+Sedan/Wagon,A4 quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,34.0,28.0,Auto,0
+Sedan/Wagon,A4 S line quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,31.0,27.0,Auto,0
+Sedan/Wagon,A5 Cabriolet quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,A5 quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,31.0,27.0,Auto,0
+Sedan/Wagon,A5 Sportback quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,34.0,28.0,Auto,0
+Sedan/Wagon,A5 Sportback S line quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,31.0,27.0,Auto,0
+Sedan/Wagon,A6 Allroad,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Sedan/Wagon,A6 quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,24.0,Auto,0
+Sedan/Wagon,A6 quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,A7 quattro,2021.0,Audi,Plug-in Hybrid Electric,24.0,0.0,0.0,0.0,68.0,26.0,34.0,29.0,Auto,0
+Sedan/Wagon,A7 quattro,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,24.0,Auto,0
+Sedan/Wagon,A8L,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,23.0,18.0,Auto,0
+Sedan/Wagon,A8L,2021.0,Audi,Plug-in Hybrid Electric,18.0,0.0,0.0,0.0,53.0,21.0,26.0,23.0,Auto,0
+Sedan/Wagon,A8L,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,26.0,21.0,Auto,0
+SUV,e-tron,2021.0,Audi,Electric,222.0,0.0,78.0,77.0,78.0,0.0,0.0,0.0,Auto,0
+SUV,e-tron Sportback,2021.0,Audi,Electric,218.0,0.0,76.0,78.0,77.0,0.0,0.0,0.0,Auto,0
+SUV,Q5,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,28.0,25.0,Auto,0
+SUV,Q5,2021.0,Audi,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,50.0,25.0,29.0,27.0,Auto,0
+SUV,Q5 Sportback,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,28.0,25.0,Auto,0
+SUV,Q7,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+SUV,Q8,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,231.0,20.0,Auto,0
+Sedan/Wagon,RS 6 Avant,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,22.0,17.0,Auto,0
+Sedan/Wagon,RS7,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,22.0,17.0,Auto,0
+Sedan/Wagon,RS Q8,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,13.0,19.0,15.0,Auto,0
+Sedan/Wagon,S6,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,28.0,22.0,Auto,0
+Sedan/Wagon,S7,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,28.0,22.0,Auto,0
+Sedan/Wagon,S8,2021.0,Audi,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,13.0,22.0,16.0,Auto,0
+SUV,Bentayga,2021.0,Bentley Motors,Plug-in Hybrid Electric,18.0,0.0,0.0,0.0,46.0,17.0,21.0,19.0,Auto,0
+Sedan/Wagon,330e,2021.0,BMW,Plug-in Hybrid Electric,23.0,0.0,0.0,0.0,75.0,25.0,33.0,28.0,Auto,0
+Sedan/Wagon,330e xDrive,2021.0,BMW,Plug-in Hybrid Electric,20.0,0.0,0.0,0.0,67.0,22.0,30.0,25.0,Auto,0
+Sedan/Wagon,530e,2021.0,BMW,Plug-in Hybrid Electric,21.0,0.0,0.0,0.0,64.0,24.0,29.0,26.0,Auto,0
+Sedan/Wagon,530e xDrive,2021.0,BMW,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,62.0,22.0,28.0,25.0,Auto,0
+SUV,540i,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,32.0,27.0,Auto,0
+SUV,540i xDrive,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,745e xDrive,2021.0,BMW,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,56.0,19.0,26.0,22.0,Auto,0
+Sedan/Wagon,i3,2021.0,BMW,Electric,153.0,0.0,124.0,102.0,113.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,i3s,2021.0,BMW,Electric,153.0,0.0,124.0,102.0,113.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,i3s with Range Extender,2021.0,BMW,Plug-in Hybrid Electric,126.0,0.0,0.0,0.0,100.0,30.0,31.0,31.0,Auto,0
+Sedan/Wagon,i3 with Range Extender,2021.0,BMW,Plug-in Hybrid Electric,126.0,0.0,0.0,0.0,100.0,30.0,31.0,31.0,Auto,0
+SUV,M340i,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,32.0,26.0,Auto,0
+SUV,M340i xDrive,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,31.0,25.0,Auto,0
+Sedan/Wagon,M440i Convertible,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+Sedan/Wagon,M440i xDrive Coupe,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,31.0,25.0,Auto,0
+SUV,X3 xDrive30e,2021.0,BMW,Plug-in Hybrid Electric,18.0,0.0,0.0,0.0,60.0,21.0,27.0,24.0,Auto,0
+SUV,X5 sDrive40i 2WD,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,X5 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,25.0,23.0,Auto,0
+SUV,X5 xDrive45e,2021.0,BMW,Plug-in Hybrid Electric,31.0,0.0,0.0,0.0,50.0,19.0,22.0,20.0,Auto,0
+SUV,X6 sDrive40i 2WD,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,X6 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,25.0,23.0,Auto,0
+SUV,X7 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Escalade 2WD,2021.0,Cadillac,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Escalade 4WD,2021.0,Cadillac,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Sedan/Wagon,Bolt EV,2021.0,Chevrolet,Electric,259.0,0.0,127.0,108.0,118.0,0.0,0.0,0.0,0,0
+Pickup,Colorado 2WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,30.0,23.0,Auto,0
+Pickup,Colorado 4WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,19.0,28.0,22.0,Auto,0
+Pickup,Colorado ZR2 4WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,18.0,22.0,19.0,Auto,0
+Pickup,Silverado 2WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,23.0,33.0,27.0,Auto,0
+Pickup,Silverado 2WD,2021.0,Chevrolet,Ethanol (E85),0.0,0.0,11.0,15.0,12.0,15.0,19.0,16.0,Auto,0
+Pickup,Silverado 4WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,26.0,24.0,Auto,0
+Pickup,Silverado 4WD,2021.0,Chevrolet,Ethanol (E85),0.0,0.0,11.0,13.0,12.0,14.0,18.0,16.0,Auto,0
+SUV,Suburban 2WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Suburban 4WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,Tahoe 2WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,28.0,24.0,Auto,0
+SUV,Tahoe 4WD,2021.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Van,Pacifica Hybrid,2021.0,Chrysler,Plug-in Hybrid Electric,32.0,0.0,0.0,0.0,82.0,29.0,30.0,30.0,Auto,0
+Sedan/Wagon,SF90 Stradale Coupe,2021.0,Ferrari,Plug-in Hybrid Electric,8.0,0.0,0.0,0.0,51.0,16.0,20.0,18.0,Auto,0
+Sedan/Wagon,Escape AWD HEV,2021.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,37.0,40.0,Auto,0
+Sedan/Wagon,Escape FWD HEV,2021.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,44.0,37.0,41.0,Auto,0
+SUV,Escape FWD PHEV,2021.0,Ford,Plug-in Hybrid Electric,37.0,0.0,0.0,0.0,105.0,43.0,38.0,40.0,Auto,0
+SUV,Explorer AWD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,11.0,15.0,13.0,16.0,23.0,19.0,Auto,0
+SUV,Explorer HEV AWD,2021.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,26.0,25.0,Auto,0
+SUV,Explorer HEV RWD,2021.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,27.0,28.0,27.0,Auto,0
+Pickup,F-150 2WD,2021.0,Ford,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Pickup,F-150 2WD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,14.0,19.0,16.0,20.0,24.0,21.0,Auto,0
+Pickup,F-150 2WD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,12.0,18.0,14.0,17.0,24.0,20.0,Auto,0
+Pickup,F-150 4WD,2021.0,Ford,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,27.0,23.0,Auto,0
+Pickup,F-150 4WD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,14.0,18.0,15.0,19.0,22.0,20.0,Auto,0
+Pickup,F-150 4WD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,11.0,17.0,13.0,16.0,22.0,19.0,Auto,0
+Pickup,F150 Pickup 2WD HEV,2021.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,26.0,25.0,Auto,0
+Pickup,F150 Pickup 4WD HEV,2021.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,24.0,24.0,24.0,Auto,0
+Sedan/Wagon,Mustang Mach-E AWD,2021.0,Ford,Electric,211.0,0.0,100.0,86.0,93.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mustang Mach-E AWD Extended,2021.0,Ford,Electric,270.0,0.0,96.0,84.0,90.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mustang Mach-E GT AWD,2021.0,Ford,Electric,270.0,0.0,90.0,77.0,84.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mustang Mach-E GT AWD,2021.0,Ford,Electric,260.0,0.0,88.0,75.0,82.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mustang Mach-E RWD,2021.0,Ford,Electric,230.0,0.0,105.0,93.0,100.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mustang Mach-E RWD California Route 1,2021.0,Ford,Electric,305.0,0.0,108.0,94.0,101.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mustang Mach-E RWD Extended,2021.0,Ford,Electric,300.0,0.0,104.0,90.0,97.0,0.0,0.0,0.0,Auto,0
+Pickup,Super Duty F-250,2021.0,Ford,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,CNG - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,Propane - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Van,Transit Connect Van FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,18.0,20.0,19.0,24.0,27.0,25.0,Auto,0
+Van,Transit Connect Van/Wagon,2021.0,Ford,Propane - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Van,Transit Connect Van/Wagon,2021.0,Ford,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Van,Transit Connect Van/Wagon,2021.0,Ford,CNG - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Van,Transit Connect Van/Wagon,2021.0,Ford,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto,0
+Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,17.0,21.0,19.0,24.0,29.0,26.0,Auto,0
+Passenger Van/Shuttle Bus,Transit T150 Passenger Van 2WD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,11.0,14.0,12.0,14.0,18.0,16.0,Auto,0
+Passenger Van/Shuttle Bus,Transit T150 Passenger Van 4WD FFV,2021.0,Ford,Ethanol (E85),0.0,0.0,11.0,14.0,12.0,15.0,19.0,16.0,Auto,0
+Pickup,Canyon 2WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,30.0,23.0,Auto,0
+Pickup,Canyon 4WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,19.0,28.0,22.0,Auto,0
+Pickup,Sierra 2WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,23.0,30.0,26.0,Auto,0
+Pickup,Sierra 2WD,2021.0,GMC,Ethanol (E85),0.0,0.0,11.0,15.0,12.0,15.0,19.0,16.0,Auto,0
+Pickup,Sierra 4WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,26.0,24.0,Auto,0
+Pickup,Sierra 4WD,2021.0,GMC,Ethanol (E85),0.0,0.0,11.0,13.0,12.0,14.0,18.0,16.0,Auto,0
+Pickup,Sierra 4WD AT4,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,26.0,24.0,Auto,0
+SUV,Yukon 2WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Yukon 4WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,Yukon XL 2WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+SUV,Yukon XL 4WD,2021.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+Sedan/Wagon,Accord,2021.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,Auto,0
+Sedan/Wagon,Accord Sport/Touring,2021.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,44.0,41.0,43.0,Auto,0
+Sedan/Wagon,Clarity,2021.0,Honda,Hydrogen Fuel Cell,0.0,0.0,68.0,67.0,68.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Clarity PHEV,2021.0,Honda,Plug-in Hybrid Electric,48.0,0.0,0.0,0.0,110.0,44.0,40.0,42.0,Auto,0
+SUV,CR-V AWD,2021.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,40.0,35.0,38.0,Auto,0
+Sedan/Wagon,Insight,2021.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,55.0,49.0,52.0,Auto,0
+Sedan/Wagon,Insight Touring,2021.0,Honda,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,45.0,48.0,Auto,0
+Sedan/Wagon,Elantra Hybrid,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,49.0,52.0,50.0,Auto,0
+Sedan/Wagon,Elantra Hybrid Blue,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,53.0,56.0,54.0,Auto,0
+Sedan/Wagon,Ioniq,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,54.0,56.0,55.0,Auto,0
+Sedan/Wagon,Ioniq Blue,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,59.0,60.0,59.0,Auto,0
+Sedan/Wagon,Ioniq Electric,2021.0,Hyundai,Electric,170.0,0.0,145.0,121.0,133.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Ioniq Plug-in Hybrid,2021.0,Hyundai,Plug-in Hybrid Electric,29.0,0.0,0.0,0.0,119.0,52.0,51.0,52.0,Auto,0
+SUV,Kona Electric,2021.0,Hyundai,Electric,258.0,0.0,132.0,108.0,120.0,0.0,0.0,0.0,Auto,0
+SUV,Nexo,2021.0,Hyundai,Hydrogen Fuel Cell,0.0,0.0,59.0,54.0,57.0,0.0,0.0,0.0,Auto,0
+SUV,Nexo Blue,2021.0,Hyundai,Hydrogen Fuel Cell,0.0,0.0,65.0,58.0,61.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Santa Fe Hybrid,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,33.0,30.0,32.0,Auto,0
+Sedan/Wagon,Santa Fe Hybrid Blue,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,36.0,31.0,34.0,Auto,0
+Sedan/Wagon,Sonata Hybrid,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,45.0,51.0,47.0,Auto,0
+Sedan/Wagon,Sonata Hybrid Blue,2021.0,Hyundai,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,50.0,54.0,52.0,Auto,0
+SUV,E-PACE MHEV,2021.0,Jaguar,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,F-PACE P340 MHEV,2021.0,Jaguar,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,27.0,22.0,Auto,0
+SUV,F-PACE P400 MHEV,2021.0,Jaguar,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,I-PACE EV400,2021.0,Jaguar,Electric,234.0,0.0,80.0,72.0,76.0,0.0,0.0,0.0,Auto,0
+SUV,Wrangler 2dr 4x4,2021.0,Jeep,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,24.0,21.0,Auto,0
+SUV,Wrangler 4dr 4x4,2021.0,Jeep,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Wrangler 4dr 4xe,2021.0,Jeep,Plug-in Hybrid Electric,22.0,0.0,0.0,0.0,49.0,20.0,20.0,20.0,Auto,0
+Sedan/Wagon,K27,2021.0,Kandi,Electric,59.0,0.0,127.0,102.0,114.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"GS-6 (21"" wheels)",2021.0,Karma,Plug-in Hybrid Electric,61.0,0.0,0.0,0.0,70.0,27.0,25.0,26.0,Auto,0
+Sedan/Wagon,"Revero GT (21"" wheels)",2021.0,Karma,Plug-in Hybrid Electric,61.0,0.0,0.0,0.0,70.0,27.0,25.0,26.0,Auto,0
+Sedan/Wagon,Niro,2021.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,46.0,49.0,Auto,0
+Sedan/Wagon,Niro Electric,2021.0,Kia,Electric,239.0,0.0,123.0,102.0,112.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Niro FE,2021.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,53.0,48.0,50.0,Auto,0
+Sedan/Wagon,Niro Plug-in Hybrid,2021.0,Kia,Plug-in Hybrid Electric,26.0,0.0,0.0,0.0,105.0,48.0,44.0,46.0,Auto,0
+Sedan/Wagon,Niro Touring,2021.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,46.0,40.0,43.0,Auto,0
+SUV,Sorento Hybrid,2021.0,Kia,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,39.0,35.0,37.0,Auto,0
+SUV,Defender 110 MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,22.0,19.0,Auto,0
+SUV,Defender 90 MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,22.0,19.0,Auto,0
+SUV,Discovery MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,24.0,21.0,Auto,0
+SUV,Range Rover ,2021.0,Land Rover,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,28.0,24.0,Auto,0
+SUV,Range Rover MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+SUV,Range Rover PHEV,2021.0,Land Rover,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,42.0,18.0,21.0,19.0,Auto,0
+SUV,Range Rover Sport,2021.0,Land Rover,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,22.0,28.0,24.0,Auto,0
+SUV,Range Rover Sport MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+SUV,Range Rover Sport PHEV,2021.0,Land Rover,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,42.0,18.0,21.0,20.0,Auto,0
+SUV,Range Rover Velar P340 MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,22.0,Auto,0
+SUV,Range Rover Velar P400 MHEV,2021.0,Land Rover,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,25.0,21.0,Auto,0
+Sedan/Wagon,ES 300h,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,44.0,44.0,Auto,0
+Sedan/Wagon,LC 500h,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,26.0,34.0,29.0,Auto,0
+Sedan/Wagon,LS 500h,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,25.0,33.0,28.0,Auto,0
+Sedan/Wagon,LS 500h AWD,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,29.0,26.0,Auto,0
+SUV,NX 300h AWD,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,33.0,30.0,31.0,Auto,0
+SUV,RX 450h AWD,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,31.0,28.0,30.0,Auto,0
+SUV,RX 450h L AWD,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,29.0,28.0,29.0,Auto,0
+Sedan/Wagon,UX 250h,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,41.0,42.0,Auto,0
+Sedan/Wagon,UX 250h AWD,2021.0,Lexus,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,41.0,38.0,39.0,Auto,0
+SUV,Aviator AWD PHEV,2021.0,Lincoln,Plug-in Hybrid Electric,21.0,0.0,0.0,0.0,56.0,22.0,25.0,23.0,Auto,0
+SUV,Corsair AWD PHEV,2021.0,Lincoln,Plug-in Hybrid Electric,28.0,0.0,0.0,0.0,78.0,34.0,32.0,33.0,Auto,0
+Sedan/Wagon,AMG CLS 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+Sedan/Wagon,AMG E53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,27.0,23.0,Auto,0
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,28.0,24.0,Auto,0
+SUV,AMG GLE 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,22.0,19.0,Auto,0
+SUV,AMG GLE 53 4MATIC+ Coupe,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,18.0,23.0,20.0,Auto,0
+SUV,AMG GLE 63 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,19.0,16.0,Auto,0
+SUV,AMG GLE 63 S 4MATIC+ Coupe,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,19.0,17.0,Auto,0
+SUV,AMG GLS 63 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,14.0,18.0,16.0,Auto,0
+Sedan/Wagon,AMG GT 43 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,25.0,22.0,Auto,0
+Sedan/Wagon,AMG GT 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,25.0,22.0,Auto,0
+Sedan/Wagon,CLS 450,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,30.0,26.0,Auto,0
+Sedan/Wagon,CLS 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,29.0,25.0,Auto,0
+Sedan/Wagon,E 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,30.0,26.0,Auto,0
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,22.0,28.0,24.0,Auto,0
+Sedan/Wagon,E 450 4MATIC (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,29.0,25.0,Auto,0
+Sedan/Wagon,E 450 4MATIC (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,30.0,25.0,Auto,0
+Sedan/Wagon,E 450 (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,30.0,25.0,Auto,0
+Sedan/Wagon,E 450 (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,23.0,31.0,26.0,Auto,0
+SUV,GLE 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,21.0,26.0,23.0,Auto,0
+SUV,GLE 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,22.0,19.0,Auto,0
+SUV,GLS 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,24.0,21.0,Auto,0
+SUV,GLS 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,16.0,21.0,18.0,Auto,0
+SUV,GLS 600 4MATIC Maybach,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,15.0,19.0,16.0,Auto,0
+Sedan/Wagon,S 500 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,29.0,24.0,Auto,0
+Sedan/Wagon,S 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,25.0,20.0,Auto,0
+Sedan/Wagon,S 580 4MATIC Maybach,2021.0,Mercedes-Benz,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,16.0,24.0,19.0,Auto,0
+Sedan/Wagon,Cooper SE Countryman ALL4,2021.0,Mini,Plug-in Hybrid Electric,18.0,0.0,0.0,0.0,73.0,29.0,30.0,29.0,Auto,0
+Sedan/Wagon,Cooper SE Hardtop 2 door,2021.0,Mini,Electric,110.0,0.0,115.0,100.0,108.0,0.0,0.0,0.0,Auto,0
+SUV,Outlander PHEV,2021.0,Mitsubishi,Plug-in Hybrid Electric,24.0,0.0,0.0,0.0,74.0,26.0,26.0,26.0,Auto,0
+Sedan/Wagon,Leaf (40 kWh battery pack),2021.0,Nissan,Electric,149.0,0.0,123.0,99.0,111.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Leaf (62 kWh battery pack),2021.0,Nissan,Electric,226.0,0.0,118.0,97.0,108.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2021.0,Nissan,Electric,215.0,0.0,114.0,94.0,104.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Polestar 2,2021.0,Polestar Automotive USA,Electric,233.0,0.0,96.0,88.0,92.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Polestar I,2021.0,Polestar Automotive USA,Plug-in Hybrid Electric,52.0,0.0,0.0,0.0,58.0,22.0,31.0,26.0,Auto,0
+SUV,Cayenne e-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,46.0,20.0,22.0,21.0,Auto,0
+SUV,Cayenne e-Hybrid Coupe,2021.0,Porsche,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,46.0,20.0,22.0,21.0,Auto,0
+SUV,Cayenne Turbo S e-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,15.0,0.0,0.0,0.0,42.0,17.0,20.0,18.0,Auto,0
+SUV,Cayenne Turbo S e-Hybrid Coupe,2021.0,Porsche,Plug-in Hybrid Electric,15.0,0.0,0.0,0.0,42.0,17.0,20.0,18.0,Auto,0
+Sedan/Wagon,Panamera 4 E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,52.0,21.0,24.0,22.0,Auto,0
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,52.0,21.0,24.0,22.0,Auto,0
+Sedan/Wagon,Panamera 4 E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,52.0,21.0,24.0,22.0,Auto,0
+Sedan/Wagon,Panamera 4S E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,50.0,21.0,23.0,22.0,Auto,0
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,50.0,21.0,23.0,22.0,Auto,0
+Sedan/Wagon,Panamera 4S E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,50.0,21.0,23.0,22.0,Auto,0
+Sedan/Wagon,Panamera Turbo S E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,48.0,18.0,22.0,19.0,Auto,0
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,48.0,18.0,22.0,19.0,Auto,0
+Sedan/Wagon,Panamera Turbo S E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,48.0,18.0,22.0,19.0,Auto,0
+Sedan/Wagon,Taycan 4S Perf Battery,2021.0,Porsche,Electric,199.0,0.0,79.0,80.0,79.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2021.0,Porsche,Electric,227.0,0.0,75.0,81.0,77.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Perf Battery,2021.0,Porsche,Electric,200.0,0.0,76.0,84.0,79.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Perf Battery Plus,2021.0,Porsche,Electric,225.0,0.0,71.0,80.0,75.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Turbo,2021.0,Porsche,Electric,212.0,0.0,71.0,75.0,73.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Taycan Turbo S,2021.0,Porsche,Electric,201.0,0.0,69.0,71.0,70.0,0.0,0.0,0.0,Auto,0
+Pickup,1500 2WD,2021.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,25.0,22.0,Auto,0
+Pickup,1500 2WD,2021.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,23.0,19.0,Auto,0
+Pickup,1500 4WD,2021.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,19.0,24.0,21.0,Auto,0
+Pickup,1500 4WD,2021.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,17.0,22.0,19.0,Auto,0
+Pickup,1500 HFE 4X2,2021.0,Ram,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,20.0,26.0,23.0,Auto,0
+SUV,Crosstrek Hybrid AWD,2021.0,Subaru,Plug-in Hybrid Electric,17.0,0.0,0.0,0.0,90.0,36.0,35.0,35.0,Auto,0
+Sedan/Wagon,Model 3 Long Range AWD,2021.0,Tesla,Electric,353.0,0.0,141.0,127.0,134.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model 3 Performance AWD,2021.0,Tesla,Electric,315.0,0.0,118.0,107.0,113.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model 3 Standard Range Plus RWD,2021.0,Tesla,Electric,263.0,0.0,150.0,133.0,142.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Model S Long Range,2021.0,Tesla,Electric,405.0,0.0,124.0,115.0,120.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Model S Performance (19"" Wheels)",2021.0,Tesla,Electric,387.0,0.0,114.0,106.0,110.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2021.0,Tesla,Electric,348.0,0.0,102.0,99.0,101.0,0.0,0.0,0.0,Auto,0
+SUV,Model X Long Range Plus,2021.0,Tesla,Electric,371.0,0.0,109.0,101.0,105.0,0.0,0.0,0.0,Auto,0
+SUV,"Model X Performance (20"" Wheels)",2021.0,Tesla,Electric,341.0,0.0,100.0,95.0,97.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y Long Range AWD,2021.0,Tesla,Electric,326.0,0.0,131.0,117.0,125.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y Performance AWD,2021.0,Tesla,Electric,303.0,0.0,115.0,106.0,111.0,0.0,0.0,0.0,Auto,0
+SUV,Model Y Standard Range RWD,2021.0,Tesla,Electric,244.0,0.0,140.0,119.0,129.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Avalon Hybrid,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,Auto,0
+Sedan/Wagon,Avalon Hybrid XLE,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,43.0,44.0,44.0,Auto,0
+Sedan/Wagon,Camry Hybrid LE,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,53.0,52.0,Auto,0
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,44.0,47.0,46.0,Auto,0
+Sedan/Wagon,Corolla Hybrid,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,53.0,52.0,52.0,Auto,0
+SUV,Highlander Hybrid,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,36.0,35.0,36.0,Auto,0
+SUV,Highlander Hybrid AWD,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,35.0,35.0,35.0,Auto,0
+SUV,Highlander Hybrid AWD LTD/PLAT,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,35.0,34.0,35.0,Auto,0
+Sedan/Wagon,Mirai Limited,2021.0,Toyota,Hydrogen Fuel Cell,0.0,0.0,67.0,64.0,65.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Mirai XLE,2021.0,Toyota,Hydrogen Fuel Cell,0.0,0.0,74.0,70.0,72.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,Prius,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,54.0,50.0,52.0,Auto,0
+Sedan/Wagon,Prius AWD,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,51.0,47.0,49.0,Auto,0
+Sedan/Wagon,Prius Eco,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,58.0,53.0,56.0,Auto,0
+Sedan/Wagon,Prius Prime,2021.0,Toyota,Plug-in Hybrid Electric,25.0,0.0,0.0,0.0,133.0,55.0,53.0,54.0,Auto,0
+SUV,RAV4 Hybrid AWD,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,41.0,38.0,40.0,Auto,0
+Sedan/Wagon,RAV4 Prime AWD,2021.0,Toyota,Plug-in Hybrid Electric,42.0,0.0,0.0,0.0,94.0,40.0,36.0,38.0,Auto,0
+Van,Sienna,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,36.0,36.0,36.0,Auto,0
+Van,Sienna AWD,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,35.0,36.0,35.0,Auto,0
+SUV,Venza AWD,2021.0,Toyota,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,40.0,37.0,39.0,Auto,0
+SUV,ID.4 1st,2021.0,Volkswagen,Electric,250.0,0.0,104.0,89.0,97.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 AWD Pro,2021.0,Volkswagen,Electric,249.0,0.0,102.0,90.0,97.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 Pro,2021.0,Volkswagen,Electric,260.0,0.0,107.0,91.0,99.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 Pro S,2021.0,Volkswagen,Electric,250.0,0.0,104.0,89.0,97.0,0.0,0.0,0.0,Auto,0
+SUV,ID.4 Pro S AWD ,2021.0,Volkswagen,Electric,240.0,0.0,98.0,88.0,93.0,0.0,0.0,0.0,Auto,0
+Sedan/Wagon,S60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,22.0,0.0,0.0,0.0,69.0,28.0,33.0,30.0,Auto,0
+Sedan/Wagon,S90 AWD,2021.0,Volvo,Plug-in Hybrid Electric,21.0,0.0,0.0,0.0,60.0,28.0,31.0,30.0,Auto,0
+SUV,V60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,22.0,0.0,0.0,0.0,69.0,28.0,33.0,30.0,Auto,0
+SUV,XC40 Recharge,2021.0,Volvo,Electric,208.0,0.0,85.0,72.0,79.0,0.0,0.0,0.0,Auto,0
+SUV,XC60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,19.0,0.0,0.0,0.0,57.0,26.0,28.0,27.0,Auto,0
+SUV,XC90 AWD,2021.0,Volvo,Plug-in Hybrid Electric,18.0,0.0,0.0,0.0,55.0,26.0,28.0,27.0,Auto,0
+Street Sweeper,ACMD-Xpert,0.0,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,ACMD-Xpert,0.0,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,ACMD-Xpert,0.0,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,ACTT Terminal Tractor,0.0,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,ACTT Terminal Tractor,0.0,Autocar,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,ACX-Xpeditor  - Class 8,0.0,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,ACX-Xpeditor ,0.0,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,ACX-Xpeditor ,0.0,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,DC-64 - Class 8,0.0,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,DC-64R - Class 8,0.0,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,LET2,0.0,Battle Motors,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,LET2,0.0,Battle Motors,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,LET2 Crew Cab,0.0,Battle Motors,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,LNT,0.0,Battle Motors,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,LNT,0.0,Battle Motors,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Passenger Van/Shuttle Bus,All American Activity,0.0,Blue Bird,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,84
+School Bus,All American Rear Engine - Class 7,0.0,Blue Bird,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,84
+School Bus,All American RE Electric,0.0,Blue Bird,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,84
+Passenger Van/Shuttle Bus,All American RE Electric Activity,0.0,Blue Bird,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,84
+Passenger Van/Shuttle Bus,Micro Bird Activity G5 Electric,0.0,Blue Bird,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,30
+School Bus,Micro Bird G5 - Class 3,0.0,Blue Bird,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,30
+Passenger Van/Shuttle Bus,Micro Bird G5 Activity,0.0,Blue Bird,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,25
+School Bus,Micro Bird G5 Electric,0.0,Blue Bird,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,30
+School Bus,Vision - Class 7,0.0,Blue Bird,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,83
+Passenger Van/Shuttle Bus,Vision Activity,0.0,Blue Bird,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,78
+School Bus,Vision Electric,0.0,Blue Bird,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,77
+Passenger Van/Shuttle Bus,Vision Electric Activity,0.0,Blue Bird,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,77
+Vocational/Cab Chassis,6F,0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,6R,0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,8R,0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,8TT Day Cab,0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Tractor,8Y Terminal Tractor,0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,C10M (45'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Max 57
+Transit Bus,C10MS (45' double deck),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,77
+Passenger Van/Shuttle Bus,C6M (23'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,16
+Passenger Van/Shuttle Bus,C8M (35'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,C8MS (35' double deck),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,52
+Passenger Van/Shuttle Bus,C9M (40'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,49
+Transit Bus,K11M (60'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,55
+Transit Bus,K7M (30'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,22
+Transit Bus,K7M ER (30'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,22
+Transit Bus,K8M (35'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,32
+Transit Bus,K9M (40'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,37
+Transit Bus,K9MD (40'),0.0,BYD,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,42
+Vocational/Cab Chassis,3500/4500 Low Cab Forward,0.0,Chevrolet,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"4500 HD, 4500 XD, 5500 HD, 5500 XD Low Cab Forward",0.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,6500 XD Low Cab Forward,0.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Express 2500/3500,0.0,Chevrolet,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Express 2500/3500,0.0,Chevrolet,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Express 2500/3500,0.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Express 2500/3500,0.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,Express 3500/4500 Cutaway,0.0,Chevrolet,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,Silverado 3500 HD Cab Chassis,0.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Pickup,Sliverado 2500/3500 HD,0.0,Chevrolet,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,e.COBUS 2700,0.0,COBUS Industries,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,96
+Transit Bus,e.COBUS 2700S,0.0,COBUS Industries,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,77
+Transit Bus,e.COBUS 3000,0.0,COBUS Industries,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,110
+School Bus,Type A Electric School Bus (DE516),0.0,Collins Bus Corp.,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,24
+School Bus,Type A Electric School Bus (DE516WF),0.0,Collins Bus Corp.,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,16 + 1 wheelchair
+Street Sweeper,Broom Bear,0.0,Elgin,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Street Sweeper,Broom Bear CNG Hybrid,0.0,Elgin,CNG - Compressed Natural Gas|Plug-in Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Street Sweeper,Broom Bear Plug-In Hybrid,0.0,Elgin,Plug-in Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Street Sweeper,Crosswind1,0.0,Elgin,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,Pelican,0.0,Elgin,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Transit Bus,AXESS 32' low floor,0.0,ENC,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Max 25
+Transit Bus,AXESS 32' low floor,0.0,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Max 25
+Transit Bus,AXESS 35' low floor,0.0,ENC,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,35
+Transit Bus,AXESS 35' low floor,0.0,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,35
+Transit Bus,AXESS 40' low floor,0.0,ENC,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,43
+Transit Bus,AXESS 40' low floor,0.0,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,43
+Transit Bus,Axess-BEB 32' low floor,0.0,ENC,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,.
+Transit Bus,Axess-BEB 35' low floor,0.0,ENC,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,.
+Transit Bus,Axess-BEB 40' low floor,0.0,ENC,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,.
+Transit Bus,AXESS-FC 40' low floor,0.0,ENC,Hydrogen Fuel Cell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,43
+Transit Bus,E-Z RIDER II 30',0.0,ENC,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,31
+Transit Bus,E-Z RIDER II 30',0.0,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,31
+Transit Bus,E-Z RIDER II 32',0.0,ENC,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,33
+Transit Bus,E-Z RIDER II 32',0.0,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,33
+Transit Bus,E-Z RIDER II 35',0.0,ENC,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,E-Z RIDER II 35',0.0,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,XHF 29',0.0,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,29
+Transit Bus,XHF 33',0.0,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,32
+Transit Bus,XHF 35',0.0,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,XHF 40',0.0,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,47
+Vocational/Cab Chassis,"E350, E450 Cutaway",0.0,Ford,Propane - Bi-fuel|CNG - Bi-fuel|Propane|CNG - Compressed Natural Gas|Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"E350, E450 Cutaway",0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"E350, E450 Stripped Chassis",0.0,Ford,Propane - Bi-fuel|Propane|CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"E350, E450 Stripped Chassis",0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,E-450 Box Truck,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,E450 Cutaway,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+School Bus,E-450 School Bus,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,E-450 Shuttle,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Step Van,E-450 Step Van,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,E450 Stripped Chassis,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,E-450 Work Truck,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,E-Transit Cargo Van,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,E-Transit Cutaway/Chassis Cab,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Passenger Van/Shuttle Bus,F-550 Bus,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+School Bus,F-59 School Bus,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,F-59 Shuttle Bus,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Step Van,F-59 Step Van,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,F-59 Stripped Chassis,0.0,Ford,CNG - Compressed Natural Gas|Propane - Bi-fuel|E85/Hybrid Electric|CNG - Bi-fuel|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,F-59 Stripped Chassis,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,F-59 Stripped Chassis,0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,F-650 Box Truck,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",0.0,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",0.0,Ford,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,Super Duty Chassis Cab F350,0.0,Ford,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",0.0,Ford,Propane - Bi-fuel|Propane|CNG - Compressed Natural Gas|CNG - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",0.0,Ford,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Pickup,"Super Duty F250, F350, F450",0.0,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Pickup,"Super Duty F250, F350, F450",0.0,Ford,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Pickup,"Super Duty F250, F350, F450",0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Pickup,"Super Duty F250, F350, F450",0.0,Ford,Plug-in Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Transit 250/350 Cargo Van,0.0,Ford,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Transit 250/350 Cargo Van,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Transit 250/350 Cargo Van,0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,0.0,Ford,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Transit CC-CA 250, 350",0.0,Ford,Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Transit CC-CA 250, 350",0.0,Ford,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,Transit Cutaway/Chassis Cab,0.0,Ford,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,114SD NG - Class 8,0.0,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,Cascadia Natural Gas,0.0,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+TractorVocational/Cab Chassis,M2 112 NG,0.0,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,MT-45 G Chassis - Class 4,0.0,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,MT-50e,0.0,Freightliner Custom Chassis,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,MT-55 G Chassis,0.0,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,S2G Truck - Class 6,0.0,Freightliner Custom Chassis,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,eCanter,0.0,FUSO,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Transit Bus,"BRT, BRT Plus, Commuter",0.0,Gillig,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,"BRT, BRT Plus, Commuter",0.0,Gillig,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,"Low Floor, Low Floor Plus",0.0,Gillig,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,"Low Floor, Low Floor Plus",0.0,Gillig,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,Low Floor Plus,0.0,Gillig,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,Trolley,0.0,Gillig,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,Trolley,0.0,Gillig,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,M3EV - Class 7,0.0,Global,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,M4EV - Class 7,0.0,Global,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,M4 Hybrid,0.0,Global,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,M4/M4HSD CNG,0.0,Global,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,M4ZE/M4HSDZE - Class 7,0.0,Global,Hydrogen Fuel Cell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Zevo 600,0.0,GM BrightDrop,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Savana 2500/3500,0.0,GMC,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Savana 2500/3500,0.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Savana 2500/3500,0.0,GMC,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Van,Savana 2500/3500,0.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,Savana 3500/4500 Cutaway,0.0,GMC,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Pickup,Sierra 2500/3500 HD,0.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,Sierra 3500 HD Cab Chassis,0.0,GMC,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"G1, G2",0.0,Greenkraft,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"G3, G4",0.0,Greenkraft,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,AV Star,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Up to 21
+School Bus,BEAST,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,90
+Transit Bus,EV250,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,21 + 2 wheelchair
+Transit Bus,EV350,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40 + 2 wheelchair
+Transit Bus,EV550,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Up to 99
+Passenger Van/Shuttle Bus,EV Star,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Up to 21
+Passenger Van/Shuttle Bus,EV Star+,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,24
+Van,EV Star Cargo,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab ChassisVan,EV Star Cargo+,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,EV Star CC,0.0,GreenPower Motor Company,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,"Front Loader: Half/Pack (including Automated), Half/Pack Freedom, Half/Pack Sierra, Half/Pack Low Rider (including Automated)",0.0,Heil Environmental,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,"Rear Loader: PowerTrak, PowerTrak Commercial, DuraPack 4060 and 5000, PT 1000, Under CDL Mini Rear Loader",0.0,Heil Environmental,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,"Side Loader: Command-SST, DuraPack Python and Rapid Rail, Liberty and MultiPack Automated",0.0,Heil Environmental,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,L6 Conventional,0.0,Hino,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,L7 Conventional,0.0,Hino,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+TractorVocational/Cab Chassis,XL7 Conventional,0.0,Hino,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+TractorVocational/Cab Chassis,XL8 Conventional,0.0,Hino,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Carriage ,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,24
+Passenger Van/Shuttle Bus,Commuter,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Passenger Van/Shuttle Bus,Commuter,0.0,Hometown Manufacturing,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,42
+Transit Bus,Mainstreet,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Mainstreet,0.0,Hometown Manufacturing,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Streetcar,0.0,Hometown Manufacturing,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Passenger Van/Shuttle Bus,Streetcar,0.0,Hometown Manufacturing,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,48
+Transit Bus,Streetcar,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Urban,0.0,Hometown Manufacturing,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Urban,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,View,0.0,Hometown Manufacturing,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Max 42
+Transit Bus,View,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,42
+Passenger Van/Shuttle Bus,Villager,0.0,Hometown Manufacturing,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,45
+Passenger Van/Shuttle Bus,Villager,0.0,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,45
+School Bus,CE Series,0.0,IC Bus,Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,78
+School Bus,Electric CE Series,0.0,IC Bus,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,Max 77
+Vocational/Cab Chassis,eMV,0.0,International,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,"FTR, FVR",0.0,Isuzu,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"NPR-HD, NPR-XD, NQR, NRR",0.0,Isuzu,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,Ottawa T2E+,0.0,Kalmar,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,K270/K370,0.0,Kenworth,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,T180/T280,0.0,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,T680,0.0,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,T680E,0.0,Kenworth,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Tractor,T880,0.0,Kenworth,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,T880,0.0,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,LION6,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,LION8 - Class 8,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Refuse,LION8 Refuse ASL and REL - Class 8,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Tractor,LION8T - Class 8,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+School Bus,LIONA,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,24
+School Bus,LIONC,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,77
+School Bus,LIOND,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,83
+Passenger Van/Shuttle Bus,LIONM,0.0,Lion Electric,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,24
+Tractor,Anthem - Class 8,0.0,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,LR,0.0,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,LR,0.0,Mack,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,TerraPro Cab Over,0.0,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,TerraPro Cab Over,0.0,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,D4000 Commuter Coach,0.0,MCI,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,49
+Transit Bus,D4000 Hybrid Commuter Coach - Class 8,0.0,MCI,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,49
+Transit Bus,D4500 Commuter Coach,0.0,MCI,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,57
+Transit Bus,D4500 Hybrid Commuter Coach - Class 8,0.0,MCI,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,57
+Transit Bus,D45 CRT LE CHARGE - Class 8,0.0,MCI,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,54
+Transit Bus,J4500e CHARGE - Class 8,0.0,MCI,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,56
+Refuse,"Front Loaders: Meridian, Atlantic, Contendor - Class 8",0.0,McNeilus,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,"Rear Loader: Standard, Heavy Duty, Extra Compaction,Tag Axle, Split Body, M2 - Class 8",0.0,McNeilus,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,"Side Loader: AutoReach, Manual/Automated, Zero Radius - Class 8",0.0,McNeilus,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,"Standard, Bridgemaster, Oshkosh S-Series - Class 8",0.0,McNeilus,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Step Van,(various models),0.0,Morgan-Olson,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Transit Bus,Xcelsior 35',0.0,New Flyer,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,33
+Transit Bus,Xcelsior 35',0.0,New Flyer,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,32
+Transit Bus,Xcelsior 40',0.0,New Flyer,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,43
+Transit Bus,Xcelsior 40',0.0,New Flyer,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Xcelsior 60',0.0,New Flyer,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,62
+Transit Bus,Xcelsior 60',0.0,New Flyer,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,62
+Transit Bus,Xcelsior CHARGE 35',0.0,New Flyer,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,32
+Transit Bus,Xcelsior CHARGE 40',0.0,New Flyer,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Xcelsior CHARGE 60',0.0,New Flyer,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,61
+Transit Bus,Xcelsior CHARGE H2 40',0.0,New Flyer,Hydrogen Fuel Cell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,Xcelsior CHARGE H2 60',0.0,New Flyer,Hydrogen Fuel Cell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,52
+Street Sweeper,Osprey II sweeper,0.0,Nitehawk,Propane - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,Osprey II sweeper,0.0,Nitehawk,Ethanol (E85),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,Raptor II sweeper,0.0,Nitehawk,CNG - Compressed Natural Gas|Propane - Bi-fuel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Transit Bus,LFS Artic HEV - Class 8,0.0,Nova Bus,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,62
+Transit Bus,LFS CNG - Class 8,0.0,Nova Bus,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,LFSe,0.0,Nova Bus,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,LFSe+,0.0,Nova Bus,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Transit Bus,LFS HEV - Class 8,0.0,Nova Bus,Diesel/Hybrid Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,41
+Vocational/Cab Chassis,E1 Cutaway Chassis,0.0,Optimal-EV,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Passenger Van/Shuttle Bus,S1 LF Low Floor,0.0,Optimal-EV,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,Up to 22
+Tractor,T Series terminal,0.0,Orange EV,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,220EV - Class 6,0.0,Peterbilt,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,220EV - Class 7,0.0,Peterbilt,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,520,0.0,Peterbilt,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Refuse,520EV - Class 8,0.0,Peterbilt,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Vocational/Cab Chassis,535 - Class 5,0.0,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic|Manual,0
+Vocational/Cab Chassis,536 - Class 6,0.0,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic|Manual,0
+Vocational/Cab Chassis,537 - Class 7,0.0,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manual|Automatic,0
+Vocational/Cab Chassis,548 - Class 8,0.0,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manual|Automatic,0
+TractorVocational/Cab Chassis,567 - Class 8,0.0,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic|Manual,0
+Vocational/Cab ChassisTractor,579,0.0,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic|Manual,0
+Tractor,579EV - Class 8,0.0,Peterbilt,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Transit Bus,ZX5 35-Foot Bus - Class 8,0.0,Proterra,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,29
+Transit Bus,ZX5+ 35-Foot Bus - Class 8,0.0,Proterra,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,29
+Transit Bus,ZX5 40-Foot Bus - Class 8,0.0,Proterra,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,ZX5+ 40-Foot Bus - Class 8,0.0,Proterra,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Transit Bus,ZX5MAX 40-Foot Bus - Class 8,0.0,Proterra,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,40
+Pickup,2500/3500 HD,0.0,RAM,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Vocational/Cab Chassis,3500/4500/5500,0.0,RAM,Biodiesel (B20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,A7 Tornado sweeper - Class 6,0.0,Schwarze Industries,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,A7 Zephyr sweeper - Class 6,0.0,Schwarze Industries,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,M6 Avalanche,0.0,Schwarze Industries,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Allstar 22,0.0,Starcraft,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,23
+School Bus,E-Quest,0.0,Starcraft,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,23
+School Bus,E-Quest XL,0.0,Starcraft,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,47 or 8 wheelchairs
+School Bus,Minotour - Class 4,0.0,Thomas Built,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,30
+Passenger Van/Shuttle Bus,Minotour Activity - Class 4,0.0,Thomas Built,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,30
+Passenger Van/Shuttle Bus,Saf-T-Liner C2 Activity,0.0,Thomas Built,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,81
+School Bus,Saf-T-Liner C2 Jouley,0.0,Thomas Built,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,81
+School Bus,Saf-T-Liner HDX - Class 8,0.0,Thomas Built,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,90
+Passenger Van/Shuttle Bus,Saf-T-Liner HDX Activity - Class 8,0.0,Thomas Built,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,90
+Passenger Van/Shuttle Bus,Transit-Liner C2,0.0,Thomas Built,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,52
+Passenger Van/Shuttle Bus,Transit-Liner HDX,0.0,Thomas Built,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,54
+Tractor,Pro Spotter,0.0,TICO,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Passenger Van/Shuttle Bus,Ford - Odyssey,0.0,Turtle Top,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,25
+Passenger Van/Shuttle Bus,Ford - Odyssey XL,0.0,Turtle Top,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,36-49
+Passenger Van/Shuttle Bus,Ford - Terra Transit,0.0,Turtle Top,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Up to 34
+Passenger Van/Shuttle Bus,Ford - Van Terra,0.0,Turtle Top,CNG - Compressed Natural Gas|Propane,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,15-18
+Passenger Van/Shuttle Bus,Ford - VT3,0.0,Turtle Top,Propane|CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,17
+Street Sweeper,500x,0.0,TYMCO,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,600,0.0,TYMCO,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Street Sweeper,HSP,0.0,TYMCO,CNG - Compressed Natural Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Step Van,(various models),0.0,Utilimaster,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
+Transit Bus,CX45E,0.0,Van Hool,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Up to 56
+Tractor,VNR Electric - Class 8,0.0,Volvo,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Step Van,C-Series,0.0,Workhorse,Electric,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automatic,0
