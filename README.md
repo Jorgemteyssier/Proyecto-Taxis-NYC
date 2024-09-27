@@ -112,11 +112,18 @@ Esta semana, en el sprint 2, profundizamos en el análisis de los datos y comenz
 ### Sprint 3
 Se ha puesto un énfasis especial en el diseño visual del dashboard, asegurando que los colores, gráficos y elementos visuales estén adecuadamente adaptados al tipo de datos y escala apropiada. Se ha empleado una jerarquía visual clara para destacar la información más relevante y se han utilizado técnicas de diseño para guiar la atención del usuario hacia los elementos clave.
 
+El dashboard creado es interactivo y ofrece una exploración intuitiva de los datos. Los filtros, selecciones y acciones añadidas optimizan la experiencia del usuario y facilitan el análisis de información clave. Se incluyen al menos tres KPIs bien definidos que alinean con los objetivos del negocio, presentados a través de visualizaciones claras y apropiadas.
+
+El modelo de machine learning se encuentra deployado en Big Query (GCP) accesible a través del siguiente link:
+
 
 
 
 
 ## Autores
 
-Este proyecto fue posible al trabajo en equipo de Optima data:
+Este proyecto fue posible gracias al trabajo en equipo de Optima data:
 
+<img src="Imagenes/equipo.PNG">
+
+¡Muchas gracias!
