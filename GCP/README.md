@@ -18,7 +18,18 @@ Google Cloud se destaca por la interconexión entre sus diversos servicios. Los 
 
 Diseño del Datalake que almacenerá datos en brutos y limpios:
 
-![Datalake](../Imagenes/datalke.png)
+![Propuesta](../Imagenes/datalake.png)
 
-+  **
++  **Cloud Functions** es una plataforma de computación sin servidor (serverless) ofrecida por Google Cloud Platform que permite a los desarrolladores ejecutar fragmentos de código en respuesta a eventos específicos, sin necesidad de gestionar ni escalar la infraestructura subyacente.
+
+Implementación de las funciones que ejecutará los procesos de extracción, transformación y carga:
+
+![Functions](../Imagenes/functions.png)
+
+
++ **Bigquery** es un servicio de almacenamiento y análisis de datos totalmente administrado y altamente escalable ofrecido por Google Cloud Platform. Está diseñado para procesar grandes conjuntos de datos de forma rápida y eficiente, permitiendo a los usuarios ejecutar consultas SQL para obtener información valiosa y tomar decisiones basadas en datos.
+
+Implementación de un data warehouse para almacenar los datos:
+
+![bigquery1](../Imagenes/bigquery(1).png)
 
