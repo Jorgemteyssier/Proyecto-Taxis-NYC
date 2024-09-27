@@ -118,7 +118,7 @@ El modelo de machine learning se encuentra deployado en Big Query (GCP) accesibl
 
 <img src="Imagenes/bigquery.png" width="30px" height="30px"> [Modelo Machine Learning](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1slinear-passkey-435400-k4!2ssouthamerica-east1!3s0ec46b73-73fb-4920-a597-ff5d04af0385!2e2&project=linear-passkey-435400-k4)
 
-
+<img src="Imagenes/canva.png" width="30px" height="30px">  [Presentación Sprint 3](https://www.canva.com/design/DAGR5XrrUxw/rTaV742QuN2R0aJzCnyXbA/edit?utm_content=DAGR5XrrUxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Autores
